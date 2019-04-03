@@ -1,0 +1,715 @@
+crop,disease history,msp,temp,rainfall,humidity,n,p,k,season,soil,type
+maize,leaf blight,1750,23,650,34,269,112,269,kharif,blacksoil,1
+cotton,boll weevil,5150,23,1000,36,245,42,67,kharif,blacksoil,2
+wheat,"leaf rust , spike blight , saw fly",1840,24,750,35,202,73,173,rabi,alluvialsoil,3
+paddy,"rice blast , shealth blast ",1750,25,675,55,18,3,18,kharif,alluvialsoil,4
+barley,"bacterial blight , powdery mildew",1440,35,550,80,60,7,7,rabi,alluvialsoil,5
+finger millet,magnaporthe grascea,1800,23,550,35,60,30,30,kharif,blacksoil,6
+ground nut,"early leaf spot,rust disease,stem rot",4890,26,575,56,30,0,150,kharif,redsoil,7
+green gram,"leaf blight,powdery mildew,root rot",5375,30,925,77,40,10,15,kharif,redsoil,8
+tea,"blister blight,chemiliabiback",2000,17,2600,20,135,40,94,kharif,lateritesoil,9
+chillies,"wilting,canker,mosaic virral",7500,20,550,22,75,75,55,kharif,alluvialsoil,10
+turmeric,"ryzome,leaf bloeth,dry rot",6000,25,1500,42,125,37,37,kharif,alluvialsoil,11
+sugar cane,"orangerust,leafcald,mosaicviral",275,28,1800,70,300,100,200,kharif,alluvialsoil,12
+jute,"leafblight,seedlingblight,mosaicvirus",3700,28,1800,72,20,20,20,kharif,redsoil,13
+sorghum,"bacterial leaf spot, charcoal rot",2800,28,525,75,80,40,0,kharif,alluvialsoil,14
+bajra,downey mildew,1750,25,500,50,110,40,20,rabi,blacksoil,15
+red gram,"wilt ,stem blight, dry root rot",5050,33,525,86,20,50,20,kharif,blacksoil,16
+black gram ,"yello mossaic virus, leaf crinkle ,powdery mildew",4400,30,725,84,25,50,30,rabi,alluvialsoil,17
+sesame,"bacterialblight,rootrot,phyllody",5600,27,800,74,50,25,25,kharif,lateritesoil,18
+sweet potato,"black rot,bacterial stem,root rot",4875,24,450,52,200,58,128,rabi,marshy,19
+mustard,"white rust, club root, bacterial blight",3700,26,450,59,80,20,20,rabi,alluvialsoil,20
+soyabean,"stem rot, stram blight",3050,28,50,75,25,50,30,rabi,alluvialsoil,21
+lin seed,"rust, wilt mildew, powdery mildew",4050,15,600,23,90,40,30,kharif,alluvialsoil,22
+niger,"powdery miltew,milt",4050,21,1150,35,20,40,0,kharif,blacksoil,23
+capsicum,"bactrial spot, charcoal rot, root knot",3500,30,1000,78,75,75,55,kharif,redsoil,24
+cucumber,"powdery mildew, cucumber betelles, mosiac",2200,19,450,26,100,50,50,rabi,alluvialsoil,25
+ridge gourd,"belly rot, bacterial milt, downey mildew",2540,32,500,79,100,60,60,kharif,alluvialsoil,26
+bottle gourd,"furasium milt, powdery mildew, downey mildew",2500,25,300,65,100,50,50,rabi,alluvialsoil,27
+snake gourd,"antracnose, leaf spot",2600,26,600,68,60,50,40,kharif,alluvialsoil,28
+Water melon,"bacterial fruit blotch, antracnose",2000,25,550,64,60,40,40,kharif,alluvialsoil,29
+muskmelon,"powdery mildew, root knot, ",3200,28,450,73,100,75,50,kharif,alluvialsoil,30
+cauli flower,"black leg,camping off, leaf spot",3000,17,400,21,100,50,50,rabi,alluvialsoil,31
+onion,"downey mildew,purple blotch, green mould",2500,17,350,25,100,50,70,kharif,alluvialsoil,32
+french bean,"leaf spot, antracnose",5450,19,390,23,60,40,40,rabi,alluvialsoil,33
+garden pea,"brown spot, gray mold, root rot",6000,18,430,23,30,50,25,rabi,alluvialsoil,34
+maize,leaf blight,1750,21.85,617.5,32.3,255.55,106.4,255.55,kharif,blacksoil,1
+cotton,boll weevil,5150,21.85,950,34.2,232.75,39.9,63.65,kharif,blacksoil,2
+wheat,"leaf rust , spike blight , saw fly",1840,22.8,712.5,33.25,191.9,69.35,164.35,rabi,alluvialsoil,3
+paddy,"rice blast , shealth blast ",1750,23.75,641.25,52.25,17.1,2.85,17.1,kharif,alluvialsoil,4
+barley,"bacterial blight , powdery mildew",1440,33.25,522.5,76,57,6.65,6.65,rabi,alluvialsoil,5
+finger millet,magnaporthe grascea,1800,21.85,522.5,33.25,57,28.5,28.5,kharif,blacksoil,6
+ground nut,"early leaf spot,rust disease,stem rot",4890,24.7,546.25,53.2,28.5,0,142.5,kharif,redsoil,7
+green gram,"leaf blight,powdery mildew,root rot",5375,28.5,878.75,73.15,38,9.5,14.25,kharif,redsoil,8
+tea,"blister blight,chemiliabiback",2000,16.15,2470,19,128.25,38,89.3,kharif,lateritesoil,9
+chillies,"wilting,canker,mosaic virral",7500,19,522.5,20.9,71.25,71.25,52.25,kharif,alluvialsoil,10
+turmeric,"ryzome,leaf bloeth,dry rot",6000,23.75,1425,39.9,118.75,35.15,35.15,kharif,alluvialsoil,11
+sugar cane,"orangerust,leafcald,mosaicviral",275,26.6,1710,66.5,285,95,190,kharif,alluvialsoil,12
+jute,"leafblight,seedlingblight,mosaicvirus",3700,26.6,1710,68.4,19,19,19,kharif,redsoil,13
+sorghum,"bacterial leaf spot, charcoal rot",2800,26.6,498.75,71.25,76,38,0,kharif,alluvialsoil,14
+bajra,downey mildew,1750,23.75,475,47.5,104.5,38,19,rabi,blacksoil,15
+red gram,"wilt ,stem blight, dry root rot",5050,31.35,498.75,81.7,19,47.5,19,kharif,blacksoil,16
+black gram ,"yello mossaic virus, leaf crinkle ,powdery mildew",4400,28.5,688.75,79.8,23.75,47.5,28.5,rabi,alluvialsoil,17
+sesame,"bacterialblight,rootrot,phyllody",5600,25.65,760,70.3,47.5,23.75,23.75,kharif,lateritesoil,18
+sweet potato,"black rot,bacterial stem,root rot",4875,22.8,427.5,49.4,190,55.1,121.6,rabi,marshy,19
+mustard,"white rust, club root, bacterial blight",3700,24.7,427.5,56.05,76,19,19,rabi,alluvialsoil,20
+soyabean,"stem rot, stram blight",3050,26.6,47.5,71.25,23.75,47.5,28.5,rabi,alluvialsoil,21
+lin seed,"rust, wilt mildew, powdery mildew",4050,14.25,570,21.85,85.5,38,28.5,kharif,alluvialsoil,22
+niger,"powdery miltew,milt",4050,19.95,1092.5,33.25,19,38,0,kharif,blacksoil,23
+capsicum,"bactrial spot, charcoal rot, root knot",3500,28.5,950,74.1,71.25,71.25,52.25,kharif,redsoil,24
+cucumber,"powdery mildew, cucumber betelles, mosiac",2200,18.05,427.5,24.7,95,47.5,47.5,rabi,alluvialsoil,25
+ridge gourd,"belly rot, bacterial milt, downey mildew",2540,30.4,475,75.05,95,57,57,kharif,alluvialsoil,26
+bottle gourd,"furasium milt, powdery mildew, downey mildew",2500,23.75,285,61.75,95,47.5,47.5,rabi,alluvialsoil,27
+snake gourd,"antracnose, leaf spot",2600,24.7,570,64.6,57,47.5,38,kharif,alluvialsoil,28
+Water melon,"bacterial fruit blotch, antracnose",2000,23.75,522.5,60.8,57,38,38,kharif,alluvialsoil,29
+muskmelon,"powdery mildew, root knot, ",3200,26.6,427.5,69.35,95,71.25,47.5,kharif,alluvialsoil,30
+cauli flower,"black leg,camping off, leaf spot",3000,16.15,380,19.95,95,47.5,47.5,rabi,alluvialsoil,31
+onion,"downey mildew,purple blotch, green mould",2500,16.15,332.5,23.75,95,47.5,66.5,kharif,alluvialsoil,32
+french bean,"leaf spot, antracnose",5450,18.05,370.5,21.85,57,38,38,rabi,alluvialsoil,33
+garden pea,"brown spot, gray mold, root rot",6000,17.1,408.5,21.85,28.5,47.5,23.75,rabi,alluvialsoil,34
+maize,leaf blight,1750,24.15,682.5,35.7,282.45,117.6,282.45,kharif,blacksoil,1
+cotton,boll weevil,5150,24.15,1050,37.8,257.25,44.1,70.35,kharif,blacksoil,2
+wheat,"leaf rust , spike blight , saw fly",1840,25.2,787.5,36.75,212.1,76.65,181.65,rabi,alluvialsoil,3
+paddy,"rice blast , shealth blast ",1750,26.25,708.75,57.75,18.9,3.15,18.9,kharif,alluvialsoil,4
+barley,"bacterial blight , powdery mildew",1440,36.75,577.5,84,63,7.35,7.35,rabi,alluvialsoil,5
+finger millet,magnaporthe grascea,1800,24.15,577.5,36.75,63,31.5,31.5,kharif,blacksoil,6
+ground nut,"early leaf spot,rust disease,stem rot",4890,27.3,603.75,58.8,31.5,0,157.5,kharif,redsoil,7
+green gram,"leaf blight,powdery mildew,root rot",5375,31.5,971.25,80.85,42,10.5,15.75,kharif,redsoil,8
+tea,"blister blight,chemiliabiback",2000,17.85,2730,21,141.75,42,98.7,kharif,lateritesoil,9
+chillies,"wilting,canker,mosaic virral",7500,21,577.5,23.1,78.75,78.75,57.75,kharif,alluvialsoil,10
+turmeric,"ryzome,leaf bloeth,dry rot",6000,26.25,1575,44.1,131.25,38.85,38.85,kharif,alluvialsoil,11
+sugar cane,"orangerust,leafcald,mosaicviral",275,29.4,1890,73.5,315,105,210,kharif,alluvialsoil,12
+jute,"leafblight,seedlingblight,mosaicvirus",3700,29.4,1890,75.6,21,21,21,kharif,redsoil,13
+sorghum,"bacterial leaf spot, charcoal rot",2800,29.4,551.25,78.75,84,42,0,kharif,alluvialsoil,14
+bajra,downey mildew,1750,26.25,525,52.5,115.5,42,21,rabi,blacksoil,15
+red gram,"wilt ,stem blight, dry root rot",5050,34.65,551.25,90.3,21,52.5,21,kharif,blacksoil,16
+black gram ,"yello mossaic virus, leaf crinkle ,powdery mildew",4400,31.5,761.25,88.2,26.25,52.5,31.5,rabi,alluvialsoil,17
+sesame,"bacterialblight,rootrot,phyllody",5600,28.35,840,77.7,52.5,26.25,26.25,kharif,lateritesoil,18
+sweet potato,"black rot,bacterial stem,root rot",4875,25.2,472.5,54.6,210,60.9,134.4,rabi,marshy,19
+mustard,"white rust, club root, bacterial blight",3700,27.3,472.5,61.95,84,21,21,rabi,alluvialsoil,20
+soyabean,"stem rot, stram blight",3050,29.4,52.5,78.75,26.25,52.5,31.5,rabi,alluvialsoil,21
+lin seed,"rust, wilt mildew, powdery mildew",4050,15.75,630,24.15,94.5,42,31.5,kharif,alluvialsoil,22
+niger,"powdery miltew,milt",4050,22.05,1207.5,36.75,21,42,0,kharif,blacksoil,23
+capsicum,"bactrial spot, charcoal rot, root knot",3500,31.5,1050,81.9,78.75,78.75,57.75,kharif,redsoil,24
+cucumber,"powdery mildew, cucumber betelles, mosiac",2200,19.95,472.5,27.3,105,52.5,52.5,rabi,alluvialsoil,25
+ridge gourd,"belly rot, bacterial milt, downey mildew",2540,33.6,525,82.95,105,63,63,kharif,alluvialsoil,26
+bottle gourd,"furasium milt, powdery mildew, downey mildew",2500,26.25,315,68.25,105,52.5,52.5,rabi,alluvialsoil,27
+snake gourd,"antracnose, leaf spot",2600,27.3,630,71.4,63,52.5,42,kharif,alluvialsoil,28
+Water melon,"bacterial fruit blotch, antracnose",2000,26.25,577.5,67.2,63,42,42,kharif,alluvialsoil,29
+muskmelon,"powdery mildew, root knot, ",3200,29.4,472.5,76.65,105,78.75,52.5,kharif,alluvialsoil,30
+cauli flower,"black leg,camping off, leaf spot",3000,17.85,420,22.05,105,52.5,52.5,rabi,alluvialsoil,31
+onion,"downey mildew,purple blotch, green mould",2500,17.85,367.5,26.25,105,52.5,73.5,kharif,alluvialsoil,32
+french bean,"leaf spot, antracnose",5450,19.95,409.5,24.15,63,42,42,rabi,alluvialsoil,33
+garden pea,"brown spot, gray mold, root rot",6000,18.9,451.5,24.15,31.5,52.5,26.25,rabi,alluvialsoil,34
+maize,leaf blight,1750,23.23,656.5,34.34,271.69,113.12,271.69,kharif,blacksoil,1
+cotton,boll weevil,5150,23.23,1010,36.36,247.45,42.42,67.67,kharif,blacksoil,2
+wheat,"leaf rust , spike blight , saw fly",1840,24.24,757.5,35.35,204.02,73.73,174.73,rabi,alluvialsoil,3
+paddy,"rice blast , shealth blast ",1750,25.25,681.75,55.55,18.18,3.03,18.18,kharif,alluvialsoil,4
+barley,"bacterial blight , powdery mildew",1440,35.35,555.5,80.8,60.6,7.07,7.07,rabi,alluvialsoil,5
+finger millet,magnaporthe grascea,1800,23.23,555.5,35.35,60.6,30.3,30.3,kharif,blacksoil,6
+ground nut,"early leaf spot,rust disease,stem rot",4890,26.26,580.75,56.56,30.3,0,151.5,kharif,redsoil,7
+green gram,"leaf blight,powdery mildew,root rot",5375,30.3,934.25,77.77,40.4,10.1,15.15,kharif,redsoil,8
+tea,"blister blight,chemiliabiback",2000,17.17,2626,20.2,136.35,40.4,94.94,kharif,lateritesoil,9
+chillies,"wilting,canker,mosaic virral",7500,20.2,555.5,22.22,75.75,75.75,55.55,kharif,alluvialsoil,10
+turmeric,"ryzome,leaf bloeth,dry rot",6000,25.25,1515,42.42,126.25,37.37,37.37,kharif,alluvialsoil,11
+sugar cane,"orangerust,leafcald,mosaicviral",275,28.28,1818,70.7,303,101,202,kharif,alluvialsoil,12
+jute,"leafblight,seedlingblight,mosaicvirus",3700,28.28,1818,72.72,20.2,20.2,20.2,kharif,redsoil,13
+sorghum,"bacterial leaf spot, charcoal rot",2800,28.28,530.25,75.75,80.8,40.4,0,kharif,alluvialsoil,14
+bajra,downey mildew,1750,25.25,505,50.5,111.1,40.4,20.2,rabi,blacksoil,15
+red gram,"wilt ,stem blight, dry root rot",5050,33.33,530.25,86.86,20.2,50.5,20.2,kharif,blacksoil,16
+black gram ,"yello mossaic virus, leaf crinkle ,powdery mildew",4400,30.3,732.25,84.84,25.25,50.5,30.3,rabi,alluvialsoil,17
+sesame,"bacterialblight,rootrot,phyllody",5600,27.27,808,74.74,50.5,25.25,25.25,kharif,lateritesoil,18
+sweet potato,"black rot,bacterial stem,root rot",4875,24.24,454.5,52.52,202,58.58,129.28,rabi,marshy,19
+mustard,"white rust, club root, bacterial blight",3700,26.26,454.5,59.59,80.8,20.2,20.2,rabi,alluvialsoil,20
+soyabean,"stem rot, stram blight",3050,28.28,50.5,75.75,25.25,50.5,30.3,rabi,alluvialsoil,21
+lin seed,"rust, wilt mildew, powdery mildew",4050,15.15,606,23.23,90.9,40.4,30.3,kharif,alluvialsoil,22
+niger,"powdery miltew,milt",4050,21.21,1161.5,35.35,20.2,40.4,0,kharif,blacksoil,23
+capsicum,"bactrial spot, charcoal rot, root knot",3500,30.3,1010,78.78,75.75,75.75,55.55,kharif,redsoil,24
+cucumber,"powdery mildew, cucumber betelles, mosiac",2200,19.19,454.5,26.26,101,50.5,50.5,rabi,alluvialsoil,25
+ridge gourd,"belly rot, bacterial milt, downey mildew",2540,32.32,505,79.79,101,60.6,60.6,kharif,alluvialsoil,26
+bottle gourd,"furasium milt, powdery mildew, downey mildew",2500,25.25,303,65.65,101,50.5,50.5,rabi,alluvialsoil,27
+snake gourd,"antracnose, leaf spot",2600,26.26,606,68.68,60.6,50.5,40.4,kharif,alluvialsoil,28
+Water melon,"bacterial fruit blotch, antracnose",2000,25.25,555.5,64.64,60.6,40.4,40.4,kharif,alluvialsoil,29
+muskmelon,"powdery mildew, root knot, ",3200,28.28,454.5,73.73,101,75.75,50.5,kharif,alluvialsoil,30
+cauli flower,"black leg,camping off, leaf spot",3000,17.17,404,21.21,101,50.5,50.5,rabi,alluvialsoil,31
+onion,"downey mildew,purple blotch, green mould",2500,17.17,353.5,25.25,101,50.5,70.7,kharif,alluvialsoil,32
+french bean,"leaf spot, antracnose",5450,19.19,393.9,23.23,60.6,40.4,40.4,rabi,alluvialsoil,33
+garden pea,"brown spot, gray mold, root rot",6000,18.18,434.3,23.23,30.3,50.5,25.25,rabi,alluvialsoil,34
+maize,leaf blight,1750,23.345,659.75,34.51,273.035,113.68,273.035,kharif,blacksoil,1
+cotton,boll weevil,5150,23.345,1015,36.54,248.675,42.63,68.005,kharif,blacksoil,2
+wheat,"leaf rust , spike blight , saw fly",1840,24.36,761.25,35.525,205.03,74.095,175.595,rabi,alluvialsoil,3
+paddy,"rice blast , shealth blast ",1750,25.375,685.125,55.825,18.27,3.045,18.27,kharif,alluvialsoil,4
+barley,"bacterial blight , powdery mildew",1440,35.525,558.25,81.2,60.9,7.105,7.105,rabi,alluvialsoil,5
+finger millet,magnaporthe grascea,1800,23.345,558.25,35.525,60.9,30.45,30.45,kharif,blacksoil,6
+ground nut,"early leaf spot,rust disease,stem rot",4890,26.39,583.625,56.84,30.45,0,152.25,kharif,redsoil,7
+green gram,"leaf blight,powdery mildew,root rot",5375,30.45,938.875,78.155,40.6,10.15,15.225,kharif,redsoil,8
+tea,"blister blight,chemiliabiback",2000,17.255,2639,20.3,137.025,40.6,95.41,kharif,lateritesoil,9
+chillies,"wilting,canker,mosaic virral",7500,20.3,558.25,22.33,76.125,76.125,55.825,kharif,alluvialsoil,10
+turmeric,"ryzome,leaf bloeth,dry rot",6000,25.375,1522.5,42.63,126.875,37.555,37.555,kharif,alluvialsoil,11
+sugar cane,"orangerust,leafcald,mosaicviral",275,28.42,1827,71.05,304.5,101.5,203,kharif,alluvialsoil,12
+jute,"leafblight,seedlingblight,mosaicvirus",3700,28.42,1827,73.08,20.3,20.3,20.3,kharif,redsoil,13
+sorghum,"bacterial leaf spot, charcoal rot",2800,28.42,532.875,76.125,81.2,40.6,0,kharif,alluvialsoil,14
+bajra,downey mildew,1750,25.375,507.5,50.75,111.65,40.6,20.3,rabi,blacksoil,15
+red gram,"wilt ,stem blight, dry root rot",5050,33.495,532.875,87.29,20.3,50.75,20.3,kharif,blacksoil,16
+black gram ,"yello mossaic virus, leaf crinkle ,powdery mildew",4400,30.45,735.875,85.26,25.375,50.75,30.45,rabi,alluvialsoil,17
+sesame,"bacterialblight,rootrot,phyllody",5600,27.405,812,75.11,50.75,25.375,25.375,kharif,lateritesoil,18
+sweet potato,"black rot,bacterial stem,root rot",4875,24.36,456.75,52.78,203,58.87,129.92,rabi,marshy,19
+mustard,"white rust, club root, bacterial blight",3700,26.39,456.75,59.885,81.2,20.3,20.3,rabi,alluvialsoil,20
+soyabean,"stem rot, stram blight",3050,28.42,50.75,76.125,25.375,50.75,30.45,rabi,alluvialsoil,21
+lin seed,"rust, wilt mildew, powdery mildew",4050,15.225,609,23.345,91.35,40.6,30.45,kharif,alluvialsoil,22
+niger,"powdery miltew,milt",4050,21.315,1167.25,35.525,20.3,40.6,0,kharif,blacksoil,23
+capsicum,"bactrial spot, charcoal rot, root knot",3500,30.45,1015,79.17,76.125,76.125,55.825,kharif,redsoil,24
+cucumber,"powdery mildew, cucumber betelles, mosiac",2200,19.285,456.75,26.39,101.5,50.75,50.75,rabi,alluvialsoil,25
+ridge gourd,"belly rot, bacterial milt, downey mildew",2540,32.48,507.5,80.185,101.5,60.9,60.9,kharif,alluvialsoil,26
+bottle gourd,"furasium milt, powdery mildew, downey mildew",2500,25.375,304.5,65.975,101.5,50.75,50.75,rabi,alluvialsoil,27
+snake gourd,"antracnose, leaf spot",2600,26.39,609,69.02,60.9,50.75,40.6,kharif,alluvialsoil,28
+Water melon,"bacterial fruit blotch, antracnose",2000,25.375,558.25,64.96,60.9,40.6,40.6,kharif,alluvialsoil,29
+muskmelon,"powdery mildew, root knot, ",3200,28.42,456.75,74.095,101.5,76.125,50.75,kharif,alluvialsoil,30
+cauli flower,"black leg,camping off, leaf spot",3000,17.255,406,21.315,101.5,50.75,50.75,rabi,alluvialsoil,31
+onion,"downey mildew,purple blotch, green mould",2500,17.255,355.25,25.375,101.5,50.75,71.05,kharif,alluvialsoil,32
+french bean,"leaf spot, antracnose",5450,19.285,395.85,23.345,60.9,40.6,40.6,rabi,alluvialsoil,33
+garden pea,"brown spot, gray mold, root rot",6000,18.27,436.45,23.345,30.45,50.75,25.375,rabi,alluvialsoil,34
+maize,leaf blight,1750,23.46,663,34.68,274.38,114.24,274.38,kharif,blacksoil,1
+cotton,boll weevil,5150,23.46,1020,36.72,249.9,42.84,68.34,kharif,blacksoil,2
+wheat,"leaf rust , spike blight , saw fly",1840,24.48,765,35.7,206.04,74.46,176.46,rabi,alluvialsoil,3
+paddy,"rice blast , shealth blast ",1750,25.5,688.5,56.1,18.36,3.06,18.36,kharif,alluvialsoil,4
+barley,"bacterial blight , powdery mildew",1440,35.7,561,81.6,61.2,7.14,7.14,rabi,alluvialsoil,5
+finger millet,magnaporthe grascea,1800,23.46,561,35.7,61.2,30.6,30.6,kharif,blacksoil,6
+ground nut,"early leaf spot,rust disease,stem rot",4890,26.52,586.5,57.12,30.6,0,153,kharif,redsoil,7
+green gram,"leaf blight,powdery mildew,root rot",5375,30.6,943.5,78.54,40.8,10.2,15.3,kharif,redsoil,8
+tea,"blister blight,chemiliabiback",2000,17.34,2652,20.4,137.7,40.8,95.88,kharif,lateritesoil,9
+chillies,"wilting,canker,mosaic virral",7500,20.4,561,22.44,76.5,76.5,56.1,kharif,alluvialsoil,10
+turmeric,"ryzome,leaf bloeth,dry rot",6000,25.5,1530,42.84,127.5,37.74,37.74,kharif,alluvialsoil,11
+sugar cane,"orangerust,leafcald,mosaicviral",275,28.56,1836,71.4,306,102,204,kharif,alluvialsoil,12
+jute,"leafblight,seedlingblight,mosaicvirus",3700,28.56,1836,73.44,20.4,20.4,20.4,kharif,redsoil,13
+sorghum,"bacterial leaf spot, charcoal rot",2800,28.56,535.5,76.5,81.6,40.8,0,kharif,alluvialsoil,14
+bajra,downey mildew,1750,25.5,510,51,112.2,40.8,20.4,rabi,blacksoil,15
+red gram,"wilt ,stem blight, dry root rot",5050,33.66,535.5,87.72,20.4,51,20.4,kharif,blacksoil,16
+black gram ,"yello mossaic virus, leaf crinkle ,powdery mildew",4400,30.6,739.5,85.68,25.5,51,30.6,rabi,alluvialsoil,17
+sesame,"bacterialblight,rootrot,phyllody",5600,27.54,816,75.48,51,25.5,25.5,kharif,lateritesoil,18
+sweet potato,"black rot,bacterial stem,root rot",4875,24.48,459,53.04,204,59.16,130.56,rabi,marshy,19
+mustard,"white rust, club root, bacterial blight",3700,26.52,459,60.18,81.6,20.4,20.4,rabi,alluvialsoil,20
+soyabean,"stem rot, stram blight",3050,28.56,51,76.5,25.5,51,30.6,rabi,alluvialsoil,21
+lin seed,"rust, wilt mildew, powdery mildew",4050,15.3,612,23.46,91.8,40.8,30.6,kharif,alluvialsoil,22
+niger,"powdery miltew,milt",4050,21.42,1173,35.7,20.4,40.8,0,kharif,blacksoil,23
+capsicum,"bactrial spot, charcoal rot, root knot",3500,30.6,1020,79.56,76.5,76.5,56.1,kharif,redsoil,24
+cucumber,"powdery mildew, cucumber betelles, mosiac",2200,19.38,459,26.52,102,51,51,rabi,alluvialsoil,25
+ridge gourd,"belly rot, bacterial milt, downey mildew",2540,32.64,510,80.58,102,61.2,61.2,kharif,alluvialsoil,26
+bottle gourd,"furasium milt, powdery mildew, downey mildew",2500,25.5,306,66.3,102,51,51,rabi,alluvialsoil,27
+snake gourd,"antracnose, leaf spot",2600,26.52,612,69.36,61.2,51,40.8,kharif,alluvialsoil,28
+Water melon,"bacterial fruit blotch, antracnose",2000,25.5,561,65.28,61.2,40.8,40.8,kharif,alluvialsoil,29
+muskmelon,"powdery mildew, root knot, ",3200,28.56,459,74.46,102,76.5,51,kharif,alluvialsoil,30
+cauli flower,"black leg,camping off, leaf spot",3000,17.34,408,21.42,102,51,51,rabi,alluvialsoil,31
+onion,"downey mildew,purple blotch, green mould",2500,17.34,357,25.5,102,51,71.4,kharif,alluvialsoil,32
+french bean,"leaf spot, antracnose",5450,19.38,397.8,23.46,61.2,40.8,40.8,rabi,alluvialsoil,33
+garden pea,"brown spot, gray mold, root rot",6000,18.36,438.6,23.46,30.6,51,25.5,rabi,alluvialsoil,34
+maize,leaf blight,1750,23.575,666.25,34.85,275.725,114.8,275.725,kharif,blacksoil,1
+cotton,boll weevil,5150,23.575,1025,36.9,251.125,43.05,68.675,kharif,blacksoil,2
+wheat,"leaf rust , spike blight , saw fly",1840,24.6,768.75,35.875,207.05,74.825,177.325,rabi,alluvialsoil,3
+paddy,"rice blast , shealth blast ",1750,25.625,691.875,56.375,18.45,3.075,18.45,kharif,alluvialsoil,4
+barley,"bacterial blight , powdery mildew",1440,35.875,563.75,82,61.5,7.175,7.175,rabi,alluvialsoil,5
+finger millet,magnaporthe grascea,1800,23.575,563.75,35.875,61.5,30.75,30.75,kharif,blacksoil,6
+ground nut,"early leaf spot,rust disease,stem rot",4890,26.65,589.375,57.4,30.75,0,153.75,kharif,redsoil,7
+green gram,"leaf blight,powdery mildew,root rot",5375,30.75,948.125,78.925,41,10.25,15.375,kharif,redsoil,8
+tea,"blister blight,chemiliabiback",2000,17.425,2665,20.5,138.375,41,96.35,kharif,lateritesoil,9
+chillies,"wilting,canker,mosaic virral",7500,20.5,563.75,22.55,76.875,76.875,56.375,kharif,alluvialsoil,10
+turmeric,"ryzome,leaf bloeth,dry rot",6000,25.625,1537.5,43.05,128.125,37.925,37.925,kharif,alluvialsoil,11
+sugar cane,"orangerust,leafcald,mosaicviral",275,28.7,1845,71.75,307.5,102.5,205,kharif,alluvialsoil,12
+jute,"leafblight,seedlingblight,mosaicvirus",3700,28.7,1845,73.8,20.5,20.5,20.5,kharif,redsoil,13
+sorghum,"bacterial leaf spot, charcoal rot",2800,28.7,538.125,76.875,82,41,0,kharif,alluvialsoil,14
+bajra,downey mildew,1750,25.625,512.5,51.25,112.75,41,20.5,rabi,blacksoil,15
+red gram,"wilt ,stem blight, dry root rot",5050,33.825,538.125,88.15,20.5,51.25,20.5,kharif,blacksoil,16
+black gram ,"yello mossaic virus, leaf crinkle ,powdery mildew",4400,30.75,743.125,86.1,25.625,51.25,30.75,rabi,alluvialsoil,17
+sesame,"bacterialblight,rootrot,phyllody",5600,27.675,820,75.85,51.25,25.625,25.625,kharif,lateritesoil,18
+sweet potato,"black rot,bacterial stem,root rot",4875,24.6,461.25,53.3,205,59.45,131.2,rabi,marshy,19
+mustard,"white rust, club root, bacterial blight",3700,26.65,461.25,60.475,82,20.5,20.5,rabi,alluvialsoil,20
+soyabean,"stem rot, stram blight",3050,28.7,51.25,76.875,25.625,51.25,30.75,rabi,alluvialsoil,21
+lin seed,"rust, wilt mildew, powdery mildew",4050,15.375,615,23.575,92.25,41,30.75,kharif,alluvialsoil,22
+niger,"powdery miltew,milt",4050,21.525,1178.75,35.875,20.5,41,0,kharif,blacksoil,23
+capsicum,"bactrial spot, charcoal rot, root knot",3500,30.75,1025,79.95,76.875,76.875,56.375,kharif,redsoil,24
+cucumber,"powdery mildew, cucumber betelles, mosiac",2200,19.475,461.25,26.65,102.5,51.25,51.25,rabi,alluvialsoil,25
+ridge gourd,"belly rot, bacterial milt, downey mildew",2540,32.8,512.5,80.975,102.5,61.5,61.5,kharif,alluvialsoil,26
+bottle gourd,"furasium milt, powdery mildew, downey mildew",2500,25.625,307.5,66.625,102.5,51.25,51.25,rabi,alluvialsoil,27
+snake gourd,"antracnose, leaf spot",2600,26.65,615,69.7,61.5,51.25,41,kharif,alluvialsoil,28
+Water melon,"bacterial fruit blotch, antracnose",2000,25.625,563.75,65.6,61.5,41,41,kharif,alluvialsoil,29
+muskmelon,"powdery mildew, root knot, ",3200,28.7,461.25,74.825,102.5,76.875,51.25,kharif,alluvialsoil,30
+cauli flower,"black leg,camping off, leaf spot",3000,17.425,410,21.525,102.5,51.25,51.25,rabi,alluvialsoil,31
+onion,"downey mildew,purple blotch, green mould",2500,17.425,358.75,25.625,102.5,51.25,71.75,kharif,alluvialsoil,32
+french bean,"leaf spot, antracnose",5450,19.475,399.75,23.575,61.5,41,41,rabi,alluvialsoil,33
+garden pea,"brown spot, gray mold, root rot",6000,18.45,440.75,23.575,30.75,51.25,25.625,rabi,alluvialsoil,34
+maize,leaf blight,1750,23.69,669.5,35.02,277.07,115.36,277.07,kharif,blacksoil,1
+cotton,boll weevil,5150,23.69,1030,37.08,252.35,43.26,69.01,kharif,blacksoil,2
+wheat,"leaf rust , spike blight , saw fly",1840,24.72,772.5,36.05,208.06,75.19,178.19,rabi,alluvialsoil,3
+paddy,"rice blast , shealth blast ",1750,25.75,695.25,56.65,18.54,3.09,18.54,kharif,alluvialsoil,4
+barley,"bacterial blight , powdery mildew",1440,36.05,566.5,82.4,61.8,7.21,7.21,rabi,alluvialsoil,5
+finger millet,magnaporthe grascea,1800,23.69,566.5,36.05,61.8,30.9,30.9,kharif,blacksoil,6
+ground nut,"early leaf spot,rust disease,stem rot",4890,26.78,592.25,57.68,30.9,0,154.5,kharif,redsoil,7
+green gram,"leaf blight,powdery mildew,root rot",5375,30.9,952.75,79.31,41.2,10.3,15.45,kharif,redsoil,8
+tea,"blister blight,chemiliabiback",2000,17.51,2678,20.6,139.05,41.2,96.82,kharif,lateritesoil,9
+chillies,"wilting,canker,mosaic virral",7500,20.6,566.5,22.66,77.25,77.25,56.65,kharif,alluvialsoil,10
+turmeric,"ryzome,leaf bloeth,dry rot",6000,25.75,1545,43.26,128.75,38.11,38.11,kharif,alluvialsoil,11
+sugar cane,"orangerust,leafcald,mosaicviral",275,28.84,1854,72.1,309,103,206,kharif,alluvialsoil,12
+jute,"leafblight,seedlingblight,mosaicvirus",3700,28.84,1854,74.16,20.6,20.6,20.6,kharif,redsoil,13
+sorghum,"bacterial leaf spot, charcoal rot",2800,28.84,540.75,77.25,82.4,41.2,0,kharif,alluvialsoil,14
+bajra,downey mildew,1750,25.75,515,51.5,113.3,41.2,20.6,rabi,blacksoil,15
+red gram,"wilt ,stem blight, dry root rot",5050,33.99,540.75,88.58,20.6,51.5,20.6,kharif,blacksoil,16
+black gram ,"yello mossaic virus, leaf crinkle ,powdery mildew",4400,30.9,746.75,86.52,25.75,51.5,30.9,rabi,alluvialsoil,17
+sesame,"bacterialblight,rootrot,phyllody",5600,27.81,824,76.22,51.5,25.75,25.75,kharif,lateritesoil,18
+sweet potato,"black rot,bacterial stem,root rot",4875,24.72,463.5,53.56,206,59.74,131.84,rabi,marshy,19
+mustard,"white rust, club root, bacterial blight",3700,26.78,463.5,60.77,82.4,20.6,20.6,rabi,alluvialsoil,20
+soyabean,"stem rot, stram blight",3050,28.84,51.5,77.25,25.75,51.5,30.9,rabi,alluvialsoil,21
+lin seed,"rust, wilt mildew, powdery mildew",4050,15.45,618,23.69,92.7,41.2,30.9,kharif,alluvialsoil,22
+niger,"powdery miltew,milt",4050,21.63,1184.5,36.05,20.6,41.2,0,kharif,blacksoil,23
+capsicum,"bactrial spot, charcoal rot, root knot",3500,30.9,1030,80.34,77.25,77.25,56.65,kharif,redsoil,24
+cucumber,"powdery mildew, cucumber betelles, mosiac",2200,19.57,463.5,26.78,103,51.5,51.5,rabi,alluvialsoil,25
+ridge gourd,"belly rot, bacterial milt, downey mildew",2540,32.96,515,81.37,103,61.8,61.8,kharif,alluvialsoil,26
+bottle gourd,"furasium milt, powdery mildew, downey mildew",2500,25.75,309,66.95,103,51.5,51.5,rabi,alluvialsoil,27
+snake gourd,"antracnose, leaf spot",2600,26.78,618,70.04,61.8,51.5,41.2,kharif,alluvialsoil,28
+Water melon,"bacterial fruit blotch, antracnose",2000,25.75,566.5,65.92,61.8,41.2,41.2,kharif,alluvialsoil,29
+muskmelon,"powdery mildew, root knot, ",3200,28.84,463.5,75.19,103,77.25,51.5,kharif,alluvialsoil,30
+cauli flower,"black leg,camping off, leaf spot",3000,17.51,412,21.63,103,51.5,51.5,rabi,alluvialsoil,31
+onion,"downey mildew,purple blotch, green mould",2500,17.51,360.5,25.75,103,51.5,72.1,kharif,alluvialsoil,32
+french bean,"leaf spot, antracnose",5450,19.57,401.7,23.69,61.8,41.2,41.2,rabi,alluvialsoil,33
+garden pea,"brown spot, gray mold, root rot",6000,18.54,442.9,23.69,30.9,51.5,25.75,rabi,alluvialsoil,34
+maize,leaf blight,1750,23.805,672.75,35.19,278.415,115.92,278.415,kharif,blacksoil,1
+cotton,boll weevil,5150,23.805,1035,37.26,253.575,43.47,69.345,kharif,blacksoil,2
+wheat,"leaf rust , spike blight , saw fly",1840,24.84,776.25,36.225,209.07,75.555,179.055,rabi,alluvialsoil,3
+paddy,"rice blast , shealth blast ",1750,25.875,698.625,56.925,18.63,3.105,18.63,kharif,alluvialsoil,4
+barley,"bacterial blight , powdery mildew",1440,36.225,569.25,82.8,62.1,7.245,7.245,rabi,alluvialsoil,5
+finger millet,magnaporthe grascea,1800,23.805,569.25,36.225,62.1,31.05,31.05,kharif,blacksoil,6
+ground nut,"early leaf spot,rust disease,stem rot",4890,26.91,595.125,57.96,31.05,0,155.25,kharif,redsoil,7
+green gram,"leaf blight,powdery mildew,root rot",5375,31.05,957.375,79.695,41.4,10.35,15.525,kharif,redsoil,8
+tea,"blister blight,chemiliabiback",2000,17.595,2691,20.7,139.725,41.4,97.29,kharif,lateritesoil,9
+chillies,"wilting,canker,mosaic virral",7500,20.7,569.25,22.77,77.625,77.625,56.925,kharif,alluvialsoil,10
+turmeric,"ryzome,leaf bloeth,dry rot",6000,25.875,1552.5,43.47,129.375,38.295,38.295,kharif,alluvialsoil,11
+sugar cane,"orangerust,leafcald,mosaicviral",275,28.98,1863,72.45,310.5,103.5,207,kharif,alluvialsoil,12
+jute,"leafblight,seedlingblight,mosaicvirus",3700,28.98,1863,74.52,20.7,20.7,20.7,kharif,redsoil,13
+sorghum,"bacterial leaf spot, charcoal rot",2800,28.98,543.375,77.625,82.8,41.4,0,kharif,alluvialsoil,14
+bajra,downey mildew,1750,25.875,517.5,51.75,113.85,41.4,20.7,rabi,blacksoil,15
+red gram,"wilt ,stem blight, dry root rot",5050,34.155,543.375,89.01,20.7,51.75,20.7,kharif,blacksoil,16
+black gram ,"yello mossaic virus, leaf crinkle ,powdery mildew",4400,31.05,750.375,86.94,25.875,51.75,31.05,rabi,alluvialsoil,17
+sesame,"bacterialblight,rootrot,phyllody",5600,27.945,828,76.59,51.75,25.875,25.875,kharif,lateritesoil,18
+sweet potato,"black rot,bacterial stem,root rot",4875,24.84,465.75,53.82,207,60.03,132.48,rabi,marshy,19
+mustard,"white rust, club root, bacterial blight",3700,26.91,465.75,61.065,82.8,20.7,20.7,rabi,alluvialsoil,20
+soyabean,"stem rot, stram blight",3050,28.98,51.75,77.625,25.875,51.75,31.05,rabi,alluvialsoil,21
+lin seed,"rust, wilt mildew, powdery mildew",4050,15.525,621,23.805,93.15,41.4,31.05,kharif,alluvialsoil,22
+niger,"powdery miltew,milt",4050,21.735,1190.25,36.225,20.7,41.4,0,kharif,blacksoil,23
+capsicum,"bactrial spot, charcoal rot, root knot",3500,31.05,1035,80.73,77.625,77.625,56.925,kharif,redsoil,24
+cucumber,"powdery mildew, cucumber betelles, mosiac",2200,19.665,465.75,26.91,103.5,51.75,51.75,rabi,alluvialsoil,25
+ridge gourd,"belly rot, bacterial milt, downey mildew",2540,33.12,517.5,81.765,103.5,62.1,62.1,kharif,alluvialsoil,26
+bottle gourd,"furasium milt, powdery mildew, downey mildew",2500,25.875,310.5,67.275,103.5,51.75,51.75,rabi,alluvialsoil,27
+snake gourd,"antracnose, leaf spot",2600,26.91,621,70.38,62.1,51.75,41.4,kharif,alluvialsoil,28
+Water melon,"bacterial fruit blotch, antracnose",2000,25.875,569.25,66.24,62.1,41.4,41.4,kharif,alluvialsoil,29
+muskmelon,"powdery mildew, root knot, ",3200,28.98,465.75,75.555,103.5,77.625,51.75,kharif,alluvialsoil,30
+cauli flower,"black leg,camping off, leaf spot",3000,17.595,414,21.735,103.5,51.75,51.75,rabi,alluvialsoil,31
+onion,"downey mildew,purple blotch, green mould",2500,17.595,362.25,25.875,103.5,51.75,72.45,kharif,alluvialsoil,32
+french bean,"leaf spot, antracnose",5450,19.665,403.65,23.805,62.1,41.4,41.4,rabi,alluvialsoil,33
+garden pea,"brown spot, gray mold, root rot",6000,18.63,445.05,23.805,31.05,51.75,25.875,rabi,alluvialsoil,34
+maize,leaf blight,1750,23.92,676,35.36,279.76,116.48,279.76,kharif,blacksoil,1
+cotton,boll weevil,5150,23.92,1040,37.44,254.8,43.68,69.68,kharif,blacksoil,2
+wheat,"leaf rust , spike blight , saw fly",1840,24.96,780,36.4,210.08,75.92,179.92,rabi,alluvialsoil,3
+paddy,"rice blast , shealth blast ",1750,26,702,57.2,18.72,3.12,18.72,kharif,alluvialsoil,4
+barley,"bacterial blight , powdery mildew",1440,36.4,572,83.2,62.4,7.28,7.28,rabi,alluvialsoil,5
+finger millet,magnaporthe grascea,1800,23.92,572,36.4,62.4,31.2,31.2,kharif,blacksoil,6
+ground nut,"early leaf spot,rust disease,stem rot",4890,27.04,598,58.24,31.2,0,156,kharif,redsoil,7
+green gram,"leaf blight,powdery mildew,root rot",5375,31.2,962,80.08,41.6,10.4,15.6,kharif,redsoil,8
+tea,"blister blight,chemiliabiback",2000,17.68,2704,20.8,140.4,41.6,97.76,kharif,lateritesoil,9
+chillies,"wilting,canker,mosaic virral",7500,20.8,572,22.88,78,78,57.2,kharif,alluvialsoil,10
+turmeric,"ryzome,leaf bloeth,dry rot",6000,26,1560,43.68,130,38.48,38.48,kharif,alluvialsoil,11
+sugar cane,"orangerust,leafcald,mosaicviral",275,29.12,1872,72.8,312,104,208,kharif,alluvialsoil,12
+jute,"leafblight,seedlingblight,mosaicvirus",3700,29.12,1872,74.88,20.8,20.8,20.8,kharif,redsoil,13
+sorghum,"bacterial leaf spot, charcoal rot",2800,29.12,546,78,83.2,41.6,0,kharif,alluvialsoil,14
+bajra,downey mildew,1750,26,520,52,114.4,41.6,20.8,rabi,blacksoil,15
+red gram,"wilt ,stem blight, dry root rot",5050,34.32,546,89.44,20.8,52,20.8,kharif,blacksoil,16
+black gram ,"yello mossaic virus, leaf crinkle ,powdery mildew",4400,31.2,754,87.36,26,52,31.2,rabi,alluvialsoil,17
+sesame,"bacterialblight,rootrot,phyllody",5600,28.08,832,76.96,52,26,26,kharif,lateritesoil,18
+sweet potato,"black rot,bacterial stem,root rot",4875,24.96,468,54.08,208,60.32,133.12,rabi,marshy,19
+mustard,"white rust, club root, bacterial blight",3700,27.04,468,61.36,83.2,20.8,20.8,rabi,alluvialsoil,20
+soyabean,"stem rot, stram blight",3050,29.12,52,78,26,52,31.2,rabi,alluvialsoil,21
+lin seed,"rust, wilt mildew, powdery mildew",4050,15.6,624,23.92,93.6,41.6,31.2,kharif,alluvialsoil,22
+niger,"powdery miltew,milt",4050,21.84,1196,36.4,20.8,41.6,0,kharif,blacksoil,23
+capsicum,"bactrial spot, charcoal rot, root knot",3500,31.2,1040,81.12,78,78,57.2,kharif,redsoil,24
+cucumber,"powdery mildew, cucumber betelles, mosiac",2200,19.76,468,27.04,104,52,52,rabi,alluvialsoil,25
+ridge gourd,"belly rot, bacterial milt, downey mildew",2540,33.28,520,82.16,104,62.4,62.4,kharif,alluvialsoil,26
+bottle gourd,"furasium milt, powdery mildew, downey mildew",2500,26,312,67.6,104,52,52,rabi,alluvialsoil,27
+snake gourd,"antracnose, leaf spot",2600,27.04,624,70.72,62.4,52,41.6,kharif,alluvialsoil,28
+Water melon,"bacterial fruit blotch, antracnose",2000,26,572,66.56,62.4,41.6,41.6,kharif,alluvialsoil,29
+muskmelon,"powdery mildew, root knot, ",3200,29.12,468,75.92,104,78,52,kharif,alluvialsoil,30
+cauli flower,"black leg,camping off, leaf spot",3000,17.68,416,21.84,104,52,52,rabi,alluvialsoil,31
+onion,"downey mildew,purple blotch, green mould",2500,17.68,364,26,104,52,72.8,kharif,alluvialsoil,32
+french bean,"leaf spot, antracnose",5450,19.76,405.6,23.92,62.4,41.6,41.6,rabi,alluvialsoil,33
+garden pea,"brown spot, gray mold, root rot",6000,18.72,447.2,23.92,31.2,52,26,rabi,alluvialsoil,34
+maize,leaf blight,1750,24.035,679.25,35.53,281.105,117.04,281.105,kharif,blacksoil,1
+cotton,boll weevil,5150,24.035,1045,37.62,256.025,43.89,70.015,kharif,blacksoil,2
+wheat,"leaf rust , spike blight , saw fly",1840,25.08,783.75,36.575,211.09,76.285,180.785,rabi,alluvialsoil,3
+paddy,"rice blast , shealth blast ",1750,26.125,705.375,57.475,18.81,3.135,18.81,kharif,alluvialsoil,4
+barley,"bacterial blight , powdery mildew",1440,36.575,574.75,83.6,62.7,7.315,7.315,rabi,alluvialsoil,5
+finger millet,magnaporthe grascea,1800,24.035,574.75,36.575,62.7,31.35,31.35,kharif,blacksoil,6
+ground nut,"early leaf spot,rust disease,stem rot",4890,27.17,600.875,58.52,31.35,0,156.75,kharif,redsoil,7
+green gram,"leaf blight,powdery mildew,root rot",5375,31.35,966.625,80.465,41.8,10.45,15.675,kharif,redsoil,8
+tea,"blister blight,chemiliabiback",2000,17.765,2717,20.9,141.075,41.8,98.23,kharif,lateritesoil,9
+chillies,"wilting,canker,mosaic virral",7500,20.9,574.75,22.99,78.375,78.375,57.475,kharif,alluvialsoil,10
+turmeric,"ryzome,leaf bloeth,dry rot",6000,26.125,1567.5,43.89,130.625,38.665,38.665,kharif,alluvialsoil,11
+sugar cane,"orangerust,leafcald,mosaicviral",275,29.26,1881,73.15,313.5,104.5,209,kharif,alluvialsoil,12
+jute,"leafblight,seedlingblight,mosaicvirus",3700,29.26,1881,75.24,20.9,20.9,20.9,kharif,redsoil,13
+sorghum,"bacterial leaf spot, charcoal rot",2800,29.26,548.625,78.375,83.6,41.8,0,kharif,alluvialsoil,14
+bajra,downey mildew,1750,26.125,522.5,52.25,114.95,41.8,20.9,rabi,blacksoil,15
+red gram,"wilt ,stem blight, dry root rot",5050,34.485,548.625,89.87,20.9,52.25,20.9,kharif,blacksoil,16
+black gram ,"yello mossaic virus, leaf crinkle ,powdery mildew",4400,31.35,757.625,87.78,26.125,52.25,31.35,rabi,alluvialsoil,17
+sesame,"bacterialblight,rootrot,phyllody",5600,28.215,836,77.33,52.25,26.125,26.125,kharif,lateritesoil,18
+sweet potato,"black rot,bacterial stem,root rot",4875,25.08,470.25,54.34,209,60.61,133.76,rabi,marshy,19
+mustard,"white rust, club root, bacterial blight",3700,27.17,470.25,61.655,83.6,20.9,20.9,rabi,alluvialsoil,20
+soyabean,"stem rot, stram blight",3050,29.26,52.25,78.375,26.125,52.25,31.35,rabi,alluvialsoil,21
+lin seed,"rust, wilt mildew, powdery mildew",4050,15.675,627,24.035,94.05,41.8,31.35,kharif,alluvialsoil,22
+niger,"powdery miltew,milt",4050,21.945,1201.75,36.575,20.9,41.8,0,kharif,blacksoil,23
+capsicum,"bactrial spot, charcoal rot, root knot",3500,31.35,1045,81.51,78.375,78.375,57.475,kharif,redsoil,24
+cucumber,"powdery mildew, cucumber betelles, mosiac",2200,19.855,470.25,27.17,104.5,52.25,52.25,rabi,alluvialsoil,25
+ridge gourd,"belly rot, bacterial milt, downey mildew",2540,33.44,522.5,82.555,104.5,62.7,62.7,kharif,alluvialsoil,26
+bottle gourd,"furasium milt, powdery mildew, downey mildew",2500,26.125,313.5,67.925,104.5,52.25,52.25,rabi,alluvialsoil,27
+snake gourd,"antracnose, leaf spot",2600,27.17,627,71.06,62.7,52.25,41.8,kharif,alluvialsoil,28
+Water melon,"bacterial fruit blotch, antracnose",2000,26.125,574.75,66.88,62.7,41.8,41.8,kharif,alluvialsoil,29
+muskmelon,"powdery mildew, root knot, ",3200,29.26,470.25,76.285,104.5,78.375,52.25,kharif,alluvialsoil,30
+cauli flower,"black leg,camping off, leaf spot",3000,17.765,418,21.945,104.5,52.25,52.25,rabi,alluvialsoil,31
+onion,"downey mildew,purple blotch, green mould",2500,17.765,365.75,26.125,104.5,52.25,73.15,kharif,alluvialsoil,32
+french bean,"leaf spot, antracnose",5450,19.855,407.55,24.035,62.7,41.8,41.8,rabi,alluvialsoil,33
+garden pea,"brown spot, gray mold, root rot",6000,18.81,449.35,24.035,31.35,52.25,26.125,rabi,alluvialsoil,34
+maize,leaf blight,1750,23.115,653.25,34.17,270.345,112.56,270.345,kharif,blacksoil,1
+cotton,boll weevil,5150,23.115,1005,36.18,246.225,42.21,67.335,kharif,blacksoil,2
+wheat,"leaf rust , spike blight , saw fly",1840,24.12,753.75,35.175,203.01,73.365,173.865,rabi,alluvialsoil,3
+paddy,"rice blast , shealth blast ",1750,25.125,678.375,55.275,18.09,3.015,18.09,kharif,alluvialsoil,4
+barley,"bacterial blight , powdery mildew",1440,35.175,552.75,80.4,60.3,7.035,7.035,rabi,alluvialsoil,5
+finger millet,magnaporthe grascea,1800,23.115,552.75,35.175,60.3,30.15,30.15,kharif,blacksoil,6
+ground nut,"early leaf spot,rust disease,stem rot",4890,26.13,577.875,56.28,30.15,0,150.75,kharif,redsoil,7
+green gram,"leaf blight,powdery mildew,root rot",5375,30.15,929.625,77.385,40.2,10.05,15.075,kharif,redsoil,8
+tea,"blister blight,chemiliabiback",2000,17.085,2613,20.1,135.675,40.2,94.47,kharif,lateritesoil,9
+chillies,"wilting,canker,mosaic virral",7500,20.1,552.75,22.11,75.375,75.375,55.275,kharif,alluvialsoil,10
+turmeric,"ryzome,leaf bloeth,dry rot",6000,25.125,1507.5,42.21,125.625,37.185,37.185,kharif,alluvialsoil,11
+sugar cane,"orangerust,leafcald,mosaicviral",275,28.14,1809,70.35,301.5,100.5,201,kharif,alluvialsoil,12
+jute,"leafblight,seedlingblight,mosaicvirus",3700,28.14,1809,72.36,20.1,20.1,20.1,kharif,redsoil,13
+sorghum,"bacterial leaf spot, charcoal rot",2800,28.14,527.625,75.375,80.4,40.2,0,kharif,alluvialsoil,14
+bajra,downey mildew,1750,25.125,502.5,50.25,110.55,40.2,20.1,rabi,blacksoil,15
+red gram,"wilt ,stem blight, dry root rot",5050,33.165,527.625,86.43,20.1,50.25,20.1,kharif,blacksoil,16
+black gram ,"yello mossaic virus, leaf crinkle ,powdery mildew",4400,30.15,728.625,84.42,25.125,50.25,30.15,rabi,alluvialsoil,17
+sesame,"bacterialblight,rootrot,phyllody",5600,27.135,804,74.37,50.25,25.125,25.125,kharif,lateritesoil,18
+sweet potato,"black rot,bacterial stem,root rot",4875,24.12,452.25,52.26,201,58.29,128.64,rabi,marshy,19
+mustard,"white rust, club root, bacterial blight",3700,26.13,452.25,59.295,80.4,20.1,20.1,rabi,alluvialsoil,20
+soyabean,"stem rot, stram blight",3050,28.14,50.25,75.375,25.125,50.25,30.15,rabi,alluvialsoil,21
+lin seed,"rust, wilt mildew, powdery mildew",4050,15.075,603,23.115,90.45,40.2,30.15,kharif,alluvialsoil,22
+niger,"powdery miltew,milt",4050,21.105,1155.75,35.175,20.1,40.2,0,kharif,blacksoil,23
+capsicum,"bactrial spot, charcoal rot, root knot",3500,30.15,1005,78.39,75.375,75.375,55.275,kharif,redsoil,24
+cucumber,"powdery mildew, cucumber betelles, mosiac",2200,19.095,452.25,26.13,100.5,50.25,50.25,rabi,alluvialsoil,25
+ridge gourd,"belly rot, bacterial milt, downey mildew",2540,32.16,502.5,79.395,100.5,60.3,60.3,kharif,alluvialsoil,26
+bottle gourd,"furasium milt, powdery mildew, downey mildew",2500,25.125,301.5,65.325,100.5,50.25,50.25,rabi,alluvialsoil,27
+snake gourd,"antracnose, leaf spot",2600,26.13,603,68.34,60.3,50.25,40.2,kharif,alluvialsoil,28
+Water melon,"bacterial fruit blotch, antracnose",2000,25.125,552.75,64.32,60.3,40.2,40.2,kharif,alluvialsoil,29
+muskmelon,"powdery mildew, root knot, ",3200,28.14,452.25,73.365,100.5,75.375,50.25,kharif,alluvialsoil,30
+cauli flower,"black leg,camping off, leaf spot",3000,17.085,402,21.105,100.5,50.25,50.25,rabi,alluvialsoil,31
+onion,"downey mildew,purple blotch, green mould",2500,17.085,351.75,25.125,100.5,50.25,70.35,kharif,alluvialsoil,32
+french bean,"leaf spot, antracnose",5450,19.095,391.95,23.115,60.3,40.2,40.2,rabi,alluvialsoil,33
+garden pea,"brown spot, gray mold, root rot",6000,18.09,432.15,23.115,30.15,50.25,25.125,rabi,alluvialsoil,34
+maize,leaf blight,1750,22.885,646.75,33.83,267.655,111.44,267.655,kharif,blacksoil,1
+cotton,boll weevil,5150,22.885,995,35.82,243.775,41.79,66.665,kharif,blacksoil,2
+wheat,"leaf rust , spike blight , saw fly",1840,23.88,746.25,34.825,200.99,72.635,172.135,rabi,alluvialsoil,3
+paddy,"rice blast , shealth blast ",1750,24.875,671.625,54.725,17.91,2.985,17.91,kharif,alluvialsoil,4
+barley,"bacterial blight , powdery mildew",1440,34.825,547.25,79.6,59.7,6.965,6.965,rabi,alluvialsoil,5
+finger millet,magnaporthe grascea,1800,22.885,547.25,34.825,59.7,29.85,29.85,kharif,blacksoil,6
+ground nut,"early leaf spot,rust disease,stem rot",4890,25.87,572.125,55.72,29.85,0,149.25,kharif,redsoil,7
+green gram,"leaf blight,powdery mildew,root rot",5375,29.85,920.375,76.615,39.8,9.95,14.925,kharif,redsoil,8
+tea,"blister blight,chemiliabiback",2000,16.915,2587,19.9,134.325,39.8,93.53,kharif,lateritesoil,9
+chillies,"wilting,canker,mosaic virral",7500,19.9,547.25,21.89,74.625,74.625,54.725,kharif,alluvialsoil,10
+turmeric,"ryzome,leaf bloeth,dry rot",6000,24.875,1492.5,41.79,124.375,36.815,36.815,kharif,alluvialsoil,11
+sugar cane,"orangerust,leafcald,mosaicviral",275,27.86,1791,69.65,298.5,99.5,199,kharif,alluvialsoil,12
+jute,"leafblight,seedlingblight,mosaicvirus",3700,27.86,1791,71.64,19.9,19.9,19.9,kharif,redsoil,13
+sorghum,"bacterial leaf spot, charcoal rot",2800,27.86,522.375,74.625,79.6,39.8,0,kharif,alluvialsoil,14
+bajra,downey mildew,1750,24.875,497.5,49.75,109.45,39.8,19.9,rabi,blacksoil,15
+red gram,"wilt ,stem blight, dry root rot",5050,32.835,522.375,85.57,19.9,49.75,19.9,kharif,blacksoil,16
+black gram ,"yello mossaic virus, leaf crinkle ,powdery mildew",4400,29.85,721.375,83.58,24.875,49.75,29.85,rabi,alluvialsoil,17
+sesame,"bacterialblight,rootrot,phyllody",5600,26.865,796,73.63,49.75,24.875,24.875,kharif,lateritesoil,18
+sweet potato,"black rot,bacterial stem,root rot",4875,23.88,447.75,51.74,199,57.71,127.36,rabi,marshy,19
+mustard,"white rust, club root, bacterial blight",3700,25.87,447.75,58.705,79.6,19.9,19.9,rabi,alluvialsoil,20
+soyabean,"stem rot, stram blight",3050,27.86,49.75,74.625,24.875,49.75,29.85,rabi,alluvialsoil,21
+lin seed,"rust, wilt mildew, powdery mildew",4050,14.925,597,22.885,89.55,39.8,29.85,kharif,alluvialsoil,22
+niger,"powdery miltew,milt",4050,20.895,1144.25,34.825,19.9,39.8,0,kharif,blacksoil,23
+capsicum,"bactrial spot, charcoal rot, root knot",3500,29.85,995,77.61,74.625,74.625,54.725,kharif,redsoil,24
+cucumber,"powdery mildew, cucumber betelles, mosiac",2200,18.905,447.75,25.87,99.5,49.75,49.75,rabi,alluvialsoil,25
+ridge gourd,"belly rot, bacterial milt, downey mildew",2540,31.84,497.5,78.605,99.5,59.7,59.7,kharif,alluvialsoil,26
+bottle gourd,"furasium milt, powdery mildew, downey mildew",2500,24.875,298.5,64.675,99.5,49.75,49.75,rabi,alluvialsoil,27
+snake gourd,"antracnose, leaf spot",2600,25.87,597,67.66,59.7,49.75,39.8,kharif,alluvialsoil,28
+Water melon,"bacterial fruit blotch, antracnose",2000,24.875,547.25,63.68,59.7,39.8,39.8,kharif,alluvialsoil,29
+muskmelon,"powdery mildew, root knot, ",3200,27.86,447.75,72.635,99.5,74.625,49.75,kharif,alluvialsoil,30
+cauli flower,"black leg,camping off, leaf spot",3000,16.915,398,20.895,99.5,49.75,49.75,rabi,alluvialsoil,31
+onion,"downey mildew,purple blotch, green mould",2500,16.915,348.25,24.875,99.5,49.75,69.65,kharif,alluvialsoil,32
+french bean,"leaf spot, antracnose",5450,18.905,388.05,22.885,59.7,39.8,39.8,rabi,alluvialsoil,33
+garden pea,"brown spot, gray mold, root rot",6000,17.91,427.85,22.885,29.85,49.75,24.875,rabi,alluvialsoil,34
+maize,leaf blight,1750,22.77,643.5,33.66,266.31,110.88,266.31,kharif,blacksoil,1
+cotton,boll weevil,5150,22.77,990,35.64,242.55,41.58,66.33,kharif,blacksoil,2
+wheat,"leaf rust , spike blight , saw fly",1840,23.76,742.5,34.65,199.98,72.27,171.27,rabi,alluvialsoil,3
+paddy,"rice blast , shealth blast ",1750,24.75,668.25,54.45,17.82,2.97,17.82,kharif,alluvialsoil,4
+barley,"bacterial blight , powdery mildew",1440,34.65,544.5,79.2,59.4,6.93,6.93,rabi,alluvialsoil,5
+finger millet,magnaporthe grascea,1800,22.77,544.5,34.65,59.4,29.7,29.7,kharif,blacksoil,6
+ground nut,"early leaf spot,rust disease,stem rot",4890,25.74,569.25,55.44,29.7,0,148.5,kharif,redsoil,7
+green gram,"leaf blight,powdery mildew,root rot",5375,29.7,915.75,76.23,39.6,9.9,14.85,kharif,redsoil,8
+tea,"blister blight,chemiliabiback",2000,16.83,2574,19.8,133.65,39.6,93.06,kharif,lateritesoil,9
+chillies,"wilting,canker,mosaic virral",7500,19.8,544.5,21.78,74.25,74.25,54.45,kharif,alluvialsoil,10
+turmeric,"ryzome,leaf bloeth,dry rot",6000,24.75,1485,41.58,123.75,36.63,36.63,kharif,alluvialsoil,11
+sugar cane,"orangerust,leafcald,mosaicviral",275,27.72,1782,69.3,297,99,198,kharif,alluvialsoil,12
+jute,"leafblight,seedlingblight,mosaicvirus",3700,27.72,1782,71.28,19.8,19.8,19.8,kharif,redsoil,13
+sorghum,"bacterial leaf spot, charcoal rot",2800,27.72,519.75,74.25,79.2,39.6,0,kharif,alluvialsoil,14
+bajra,downey mildew,1750,24.75,495,49.5,108.9,39.6,19.8,rabi,blacksoil,15
+red gram,"wilt ,stem blight, dry root rot",5050,32.67,519.75,85.14,19.8,49.5,19.8,kharif,blacksoil,16
+black gram ,"yello mossaic virus, leaf crinkle ,powdery mildew",4400,29.7,717.75,83.16,24.75,49.5,29.7,rabi,alluvialsoil,17
+sesame,"bacterialblight,rootrot,phyllody",5600,26.73,792,73.26,49.5,24.75,24.75,kharif,lateritesoil,18
+sweet potato,"black rot,bacterial stem,root rot",4875,23.76,445.5,51.48,198,57.42,126.72,rabi,marshy,19
+mustard,"white rust, club root, bacterial blight",3700,25.74,445.5,58.41,79.2,19.8,19.8,rabi,alluvialsoil,20
+soyabean,"stem rot, stram blight",3050,27.72,49.5,74.25,24.75,49.5,29.7,rabi,alluvialsoil,21
+lin seed,"rust, wilt mildew, powdery mildew",4050,14.85,594,22.77,89.1,39.6,29.7,kharif,alluvialsoil,22
+niger,"powdery miltew,milt",4050,20.79,1138.5,34.65,19.8,39.6,0,kharif,blacksoil,23
+capsicum,"bactrial spot, charcoal rot, root knot",3500,29.7,990,77.22,74.25,74.25,54.45,kharif,redsoil,24
+cucumber,"powdery mildew, cucumber betelles, mosiac",2200,18.81,445.5,25.74,99,49.5,49.5,rabi,alluvialsoil,25
+ridge gourd,"belly rot, bacterial milt, downey mildew",2540,31.68,495,78.21,99,59.4,59.4,kharif,alluvialsoil,26
+bottle gourd,"furasium milt, powdery mildew, downey mildew",2500,24.75,297,64.35,99,49.5,49.5,rabi,alluvialsoil,27
+snake gourd,"antracnose, leaf spot",2600,25.74,594,67.32,59.4,49.5,39.6,kharif,alluvialsoil,28
+Water melon,"bacterial fruit blotch, antracnose",2000,24.75,544.5,63.36,59.4,39.6,39.6,kharif,alluvialsoil,29
+muskmelon,"powdery mildew, root knot, ",3200,27.72,445.5,72.27,99,74.25,49.5,kharif,alluvialsoil,30
+cauli flower,"black leg,camping off, leaf spot",3000,16.83,396,20.79,99,49.5,49.5,rabi,alluvialsoil,31
+onion,"downey mildew,purple blotch, green mould",2500,16.83,346.5,24.75,99,49.5,69.3,kharif,alluvialsoil,32
+french bean,"leaf spot, antracnose",5450,18.81,386.1,22.77,59.4,39.6,39.6,rabi,alluvialsoil,33
+garden pea,"brown spot, gray mold, root rot",6000,17.82,425.7,22.77,29.7,49.5,24.75,rabi,alluvialsoil,34
+maize,leaf blight,1750,22.655,640.25,33.49,264.965,110.32,264.965,kharif,blacksoil,1
+cotton,boll weevil,5150,22.655,985,35.46,241.325,41.37,65.995,kharif,blacksoil,2
+wheat,"leaf rust , spike blight , saw fly",1840,23.64,738.75,34.475,198.97,71.905,170.405,rabi,alluvialsoil,3
+paddy,"rice blast , shealth blast ",1750,24.625,664.875,54.175,17.73,2.955,17.73,kharif,alluvialsoil,4
+barley,"bacterial blight , powdery mildew",1440,34.475,541.75,78.8,59.1,6.895,6.895,rabi,alluvialsoil,5
+finger millet,magnaporthe grascea,1800,22.655,541.75,34.475,59.1,29.55,29.55,kharif,blacksoil,6
+ground nut,"early leaf spot,rust disease,stem rot",4890,25.61,566.375,55.16,29.55,0,147.75,kharif,redsoil,7
+green gram,"leaf blight,powdery mildew,root rot",5375,29.55,911.125,75.845,39.4,9.85,14.775,kharif,redsoil,8
+tea,"blister blight,chemiliabiback",2000,16.745,2561,19.7,132.975,39.4,92.59,kharif,lateritesoil,9
+chillies,"wilting,canker,mosaic virral",7500,19.7,541.75,21.67,73.875,73.875,54.175,kharif,alluvialsoil,10
+turmeric,"ryzome,leaf bloeth,dry rot",6000,24.625,1477.5,41.37,123.125,36.445,36.445,kharif,alluvialsoil,11
+sugar cane,"orangerust,leafcald,mosaicviral",275,27.58,1773,68.95,295.5,98.5,197,kharif,alluvialsoil,12
+jute,"leafblight,seedlingblight,mosaicvirus",3700,27.58,1773,70.92,19.7,19.7,19.7,kharif,redsoil,13
+sorghum,"bacterial leaf spot, charcoal rot",2800,27.58,517.125,73.875,78.8,39.4,0,kharif,alluvialsoil,14
+bajra,downey mildew,1750,24.625,492.5,49.25,108.35,39.4,19.7,rabi,blacksoil,15
+red gram,"wilt ,stem blight, dry root rot",5050,32.505,517.125,84.71,19.7,49.25,19.7,kharif,blacksoil,16
+black gram ,"yello mossaic virus, leaf crinkle ,powdery mildew",4400,29.55,714.125,82.74,24.625,49.25,29.55,rabi,alluvialsoil,17
+sesame,"bacterialblight,rootrot,phyllody",5600,26.595,788,72.89,49.25,24.625,24.625,kharif,lateritesoil,18
+sweet potato,"black rot,bacterial stem,root rot",4875,23.64,443.25,51.22,197,57.13,126.08,rabi,marshy,19
+mustard,"white rust, club root, bacterial blight",3700,25.61,443.25,58.115,78.8,19.7,19.7,rabi,alluvialsoil,20
+soyabean,"stem rot, stram blight",3050,27.58,49.25,73.875,24.625,49.25,29.55,rabi,alluvialsoil,21
+lin seed,"rust, wilt mildew, powdery mildew",4050,14.775,591,22.655,88.65,39.4,29.55,kharif,alluvialsoil,22
+niger,"powdery miltew,milt",4050,20.685,1132.75,34.475,19.7,39.4,0,kharif,blacksoil,23
+capsicum,"bactrial spot, charcoal rot, root knot",3500,29.55,985,76.83,73.875,73.875,54.175,kharif,redsoil,24
+cucumber,"powdery mildew, cucumber betelles, mosiac",2200,18.715,443.25,25.61,98.5,49.25,49.25,rabi,alluvialsoil,25
+ridge gourd,"belly rot, bacterial milt, downey mildew",2540,31.52,492.5,77.815,98.5,59.1,59.1,kharif,alluvialsoil,26
+bottle gourd,"furasium milt, powdery mildew, downey mildew",2500,24.625,295.5,64.025,98.5,49.25,49.25,rabi,alluvialsoil,27
+snake gourd,"antracnose, leaf spot",2600,25.61,591,66.98,59.1,49.25,39.4,kharif,alluvialsoil,28
+Water melon,"bacterial fruit blotch, antracnose",2000,24.625,541.75,63.04,59.1,39.4,39.4,kharif,alluvialsoil,29
+muskmelon,"powdery mildew, root knot, ",3200,27.58,443.25,71.905,98.5,73.875,49.25,kharif,alluvialsoil,30
+cauli flower,"black leg,camping off, leaf spot",3000,16.745,394,20.685,98.5,49.25,49.25,rabi,alluvialsoil,31
+onion,"downey mildew,purple blotch, green mould",2500,16.745,344.75,24.625,98.5,49.25,68.95,kharif,alluvialsoil,32
+french bean,"leaf spot, antracnose",5450,18.715,384.15,22.655,59.1,39.4,39.4,rabi,alluvialsoil,33
+garden pea,"brown spot, gray mold, root rot",6000,17.73,423.55,22.655,29.55,49.25,24.625,rabi,alluvialsoil,34
+maize,leaf blight,1750,22.54,637,33.32,263.62,109.76,263.62,kharif,blacksoil,1
+cotton,boll weevil,5150,22.54,980,35.28,240.1,41.16,65.66,kharif,blacksoil,2
+wheat,"leaf rust , spike blight , saw fly",1840,23.52,735,34.3,197.96,71.54,169.54,rabi,alluvialsoil,3
+paddy,"rice blast , shealth blast ",1750,24.5,661.5,53.9,17.64,2.94,17.64,kharif,alluvialsoil,4
+barley,"bacterial blight , powdery mildew",1440,34.3,539,78.4,58.8,6.86,6.86,rabi,alluvialsoil,5
+finger millet,magnaporthe grascea,1800,22.54,539,34.3,58.8,29.4,29.4,kharif,blacksoil,6
+ground nut,"early leaf spot,rust disease,stem rot",4890,25.48,563.5,54.88,29.4,0,147,kharif,redsoil,7
+green gram,"leaf blight,powdery mildew,root rot",5375,29.4,906.5,75.46,39.2,9.8,14.7,kharif,redsoil,8
+tea,"blister blight,chemiliabiback",2000,16.66,2548,19.6,132.3,39.2,92.12,kharif,lateritesoil,9
+chillies,"wilting,canker,mosaic virral",7500,19.6,539,21.56,73.5,73.5,53.9,kharif,alluvialsoil,10
+turmeric,"ryzome,leaf bloeth,dry rot",6000,24.5,1470,41.16,122.5,36.26,36.26,kharif,alluvialsoil,11
+sugar cane,"orangerust,leafcald,mosaicviral",275,27.44,1764,68.6,294,98,196,kharif,alluvialsoil,12
+jute,"leafblight,seedlingblight,mosaicvirus",3700,27.44,1764,70.56,19.6,19.6,19.6,kharif,redsoil,13
+sorghum,"bacterial leaf spot, charcoal rot",2800,27.44,514.5,73.5,78.4,39.2,0,kharif,alluvialsoil,14
+bajra,downey mildew,1750,24.5,490,49,107.8,39.2,19.6,rabi,blacksoil,15
+red gram,"wilt ,stem blight, dry root rot",5050,32.34,514.5,84.28,19.6,49,19.6,kharif,blacksoil,16
+black gram ,"yello mossaic virus, leaf crinkle ,powdery mildew",4400,29.4,710.5,82.32,24.5,49,29.4,rabi,alluvialsoil,17
+sesame,"bacterialblight,rootrot,phyllody",5600,26.46,784,72.52,49,24.5,24.5,kharif,lateritesoil,18
+sweet potato,"black rot,bacterial stem,root rot",4875,23.52,441,50.96,196,56.84,125.44,rabi,marshy,19
+mustard,"white rust, club root, bacterial blight",3700,25.48,441,57.82,78.4,19.6,19.6,rabi,alluvialsoil,20
+soyabean,"stem rot, stram blight",3050,27.44,49,73.5,24.5,49,29.4,rabi,alluvialsoil,21
+lin seed,"rust, wilt mildew, powdery mildew",4050,14.7,588,22.54,88.2,39.2,29.4,kharif,alluvialsoil,22
+niger,"powdery miltew,milt",4050,20.58,1127,34.3,19.6,39.2,0,kharif,blacksoil,23
+capsicum,"bactrial spot, charcoal rot, root knot",3500,29.4,980,76.44,73.5,73.5,53.9,kharif,redsoil,24
+cucumber,"powdery mildew, cucumber betelles, mosiac",2200,18.62,441,25.48,98,49,49,rabi,alluvialsoil,25
+ridge gourd,"belly rot, bacterial milt, downey mildew",2540,31.36,490,77.42,98,58.8,58.8,kharif,alluvialsoil,26
+bottle gourd,"furasium milt, powdery mildew, downey mildew",2500,24.5,294,63.7,98,49,49,rabi,alluvialsoil,27
+snake gourd,"antracnose, leaf spot",2600,25.48,588,66.64,58.8,49,39.2,kharif,alluvialsoil,28
+Water melon,"bacterial fruit blotch, antracnose",2000,24.5,539,62.72,58.8,39.2,39.2,kharif,alluvialsoil,29
+muskmelon,"powdery mildew, root knot, ",3200,27.44,441,71.54,98,73.5,49,kharif,alluvialsoil,30
+cauli flower,"black leg,camping off, leaf spot",3000,16.66,392,20.58,98,49,49,rabi,alluvialsoil,31
+onion,"downey mildew,purple blotch, green mould",2500,16.66,343,24.5,98,49,68.6,kharif,alluvialsoil,32
+french bean,"leaf spot, antracnose",5450,18.62,382.2,22.54,58.8,39.2,39.2,rabi,alluvialsoil,33
+garden pea,"brown spot, gray mold, root rot",6000,17.64,421.4,22.54,29.4,49,24.5,rabi,alluvialsoil,34
+maize,leaf blight,1750,22.425,633.75,33.15,262.275,109.2,262.275,kharif,blacksoil,1
+cotton,boll weevil,5150,22.425,975,35.1,238.875,40.95,65.325,kharif,blacksoil,2
+wheat,"leaf rust , spike blight , saw fly",1840,23.4,731.25,34.125,196.95,71.175,168.675,rabi,alluvialsoil,3
+paddy,"rice blast , shealth blast ",1750,24.375,658.125,53.625,17.55,2.925,17.55,kharif,alluvialsoil,4
+barley,"bacterial blight , powdery mildew",1440,34.125,536.25,78,58.5,6.825,6.825,rabi,alluvialsoil,5
+finger millet,magnaporthe grascea,1800,22.425,536.25,34.125,58.5,29.25,29.25,kharif,blacksoil,6
+ground nut,"early leaf spot,rust disease,stem rot",4890,25.35,560.625,54.6,29.25,0,146.25,kharif,redsoil,7
+green gram,"leaf blight,powdery mildew,root rot",5375,29.25,901.875,75.075,39,9.75,14.625,kharif,redsoil,8
+tea,"blister blight,chemiliabiback",2000,16.575,2535,19.5,131.625,39,91.65,kharif,lateritesoil,9
+chillies,"wilting,canker,mosaic virral",7500,19.5,536.25,21.45,73.125,73.125,53.625,kharif,alluvialsoil,10
+turmeric,"ryzome,leaf bloeth,dry rot",6000,24.375,1462.5,40.95,121.875,36.075,36.075,kharif,alluvialsoil,11
+sugar cane,"orangerust,leafcald,mosaicviral",275,27.3,1755,68.25,292.5,97.5,195,kharif,alluvialsoil,12
+jute,"leafblight,seedlingblight,mosaicvirus",3700,27.3,1755,70.2,19.5,19.5,19.5,kharif,redsoil,13
+sorghum,"bacterial leaf spot, charcoal rot",2800,27.3,511.875,73.125,78,39,0,kharif,alluvialsoil,14
+bajra,downey mildew,1750,24.375,487.5,48.75,107.25,39,19.5,rabi,blacksoil,15
+red gram,"wilt ,stem blight, dry root rot",5050,32.175,511.875,83.85,19.5,48.75,19.5,kharif,blacksoil,16
+black gram ,"yello mossaic virus, leaf crinkle ,powdery mildew",4400,29.25,706.875,81.9,24.375,48.75,29.25,rabi,alluvialsoil,17
+sesame,"bacterialblight,rootrot,phyllody",5600,26.325,780,72.15,48.75,24.375,24.375,kharif,lateritesoil,18
+sweet potato,"black rot,bacterial stem,root rot",4875,23.4,438.75,50.7,195,56.55,124.8,rabi,marshy,19
+mustard,"white rust, club root, bacterial blight",3700,25.35,438.75,57.525,78,19.5,19.5,rabi,alluvialsoil,20
+soyabean,"stem rot, stram blight",3050,27.3,48.75,73.125,24.375,48.75,29.25,rabi,alluvialsoil,21
+lin seed,"rust, wilt mildew, powdery mildew",4050,14.625,585,22.425,87.75,39,29.25,kharif,alluvialsoil,22
+niger,"powdery miltew,milt",4050,20.475,1121.25,34.125,19.5,39,0,kharif,blacksoil,23
+capsicum,"bactrial spot, charcoal rot, root knot",3500,29.25,975,76.05,73.125,73.125,53.625,kharif,redsoil,24
+cucumber,"powdery mildew, cucumber betelles, mosiac",2200,18.525,438.75,25.35,97.5,48.75,48.75,rabi,alluvialsoil,25
+ridge gourd,"belly rot, bacterial milt, downey mildew",2540,31.2,487.5,77.025,97.5,58.5,58.5,kharif,alluvialsoil,26
+bottle gourd,"furasium milt, powdery mildew, downey mildew",2500,24.375,292.5,63.375,97.5,48.75,48.75,rabi,alluvialsoil,27
+snake gourd,"antracnose, leaf spot",2600,25.35,585,66.3,58.5,48.75,39,kharif,alluvialsoil,28
+Water melon,"bacterial fruit blotch, antracnose",2000,24.375,536.25,62.4,58.5,39,39,kharif,alluvialsoil,29
+muskmelon,"powdery mildew, root knot, ",3200,27.3,438.75,71.175,97.5,73.125,48.75,kharif,alluvialsoil,30
+cauli flower,"black leg,camping off, leaf spot",3000,16.575,390,20.475,97.5,48.75,48.75,rabi,alluvialsoil,31
+onion,"downey mildew,purple blotch, green mould",2500,16.575,341.25,24.375,97.5,48.75,68.25,kharif,alluvialsoil,32
+french bean,"leaf spot, antracnose",5450,18.525,380.25,22.425,58.5,39,39,rabi,alluvialsoil,33
+garden pea,"brown spot, gray mold, root rot",6000,17.55,419.25,22.425,29.25,48.75,24.375,rabi,alluvialsoil,34
+maize,leaf blight,1750,22.31,630.5,32.98,260.93,108.64,260.93,kharif,blacksoil,1
+cotton,boll weevil,5150,22.31,970,34.92,237.65,40.74,64.99,kharif,blacksoil,2
+wheat,"leaf rust , spike blight , saw fly",1840,23.28,727.5,33.95,195.94,70.81,167.81,rabi,alluvialsoil,3
+paddy,"rice blast , shealth blast ",1750,24.25,654.75,53.35,17.46,2.91,17.46,kharif,alluvialsoil,4
+barley,"bacterial blight , powdery mildew",1440,33.95,533.5,77.6,58.2,6.79,6.79,rabi,alluvialsoil,5
+finger millet,magnaporthe grascea,1800,22.31,533.5,33.95,58.2,29.1,29.1,kharif,blacksoil,6
+ground nut,"early leaf spot,rust disease,stem rot",4890,25.22,557.75,54.32,29.1,0,145.5,kharif,redsoil,7
+green gram,"leaf blight,powdery mildew,root rot",5375,29.1,897.25,74.69,38.8,9.7,14.55,kharif,redsoil,8
+tea,"blister blight,chemiliabiback",2000,16.49,2522,19.4,130.95,38.8,91.18,kharif,lateritesoil,9
+chillies,"wilting,canker,mosaic virral",7500,19.4,533.5,21.34,72.75,72.75,53.35,kharif,alluvialsoil,10
+turmeric,"ryzome,leaf bloeth,dry rot",6000,24.25,1455,40.74,121.25,35.89,35.89,kharif,alluvialsoil,11
+sugar cane,"orangerust,leafcald,mosaicviral",275,27.16,1746,67.9,291,97,194,kharif,alluvialsoil,12
+jute,"leafblight,seedlingblight,mosaicvirus",3700,27.16,1746,69.84,19.4,19.4,19.4,kharif,redsoil,13
+sorghum,"bacterial leaf spot, charcoal rot",2800,27.16,509.25,72.75,77.6,38.8,0,kharif,alluvialsoil,14
+bajra,downey mildew,1750,24.25,485,48.5,106.7,38.8,19.4,rabi,blacksoil,15
+red gram,"wilt ,stem blight, dry root rot",5050,32.01,509.25,83.42,19.4,48.5,19.4,kharif,blacksoil,16
+black gram ,"yello mossaic virus, leaf crinkle ,powdery mildew",4400,29.1,703.25,81.48,24.25,48.5,29.1,rabi,alluvialsoil,17
+sesame,"bacterialblight,rootrot,phyllody",5600,26.19,776,71.78,48.5,24.25,24.25,kharif,lateritesoil,18
+sweet potato,"black rot,bacterial stem,root rot",4875,23.28,436.5,50.44,194,56.26,124.16,rabi,marshy,19
+mustard,"white rust, club root, bacterial blight",3700,25.22,436.5,57.23,77.6,19.4,19.4,rabi,alluvialsoil,20
+soyabean,"stem rot, stram blight",3050,27.16,48.5,72.75,24.25,48.5,29.1,rabi,alluvialsoil,21
+lin seed,"rust, wilt mildew, powdery mildew",4050,14.55,582,22.31,87.3,38.8,29.1,kharif,alluvialsoil,22
+niger,"powdery miltew,milt",4050,20.37,1115.5,33.95,19.4,38.8,0,kharif,blacksoil,23
+capsicum,"bactrial spot, charcoal rot, root knot",3500,29.1,970,75.66,72.75,72.75,53.35,kharif,redsoil,24
+cucumber,"powdery mildew, cucumber betelles, mosiac",2200,18.43,436.5,25.22,97,48.5,48.5,rabi,alluvialsoil,25
+ridge gourd,"belly rot, bacterial milt, downey mildew",2540,31.04,485,76.63,97,58.2,58.2,kharif,alluvialsoil,26
+bottle gourd,"furasium milt, powdery mildew, downey mildew",2500,24.25,291,63.05,97,48.5,48.5,rabi,alluvialsoil,27
+snake gourd,"antracnose, leaf spot",2600,25.22,582,65.96,58.2,48.5,38.8,kharif,alluvialsoil,28
+Water melon,"bacterial fruit blotch, antracnose",2000,24.25,533.5,62.08,58.2,38.8,38.8,kharif,alluvialsoil,29
+muskmelon,"powdery mildew, root knot, ",3200,27.16,436.5,70.81,97,72.75,48.5,kharif,alluvialsoil,30
+cauli flower,"black leg,camping off, leaf spot",3000,16.49,388,20.37,97,48.5,48.5,rabi,alluvialsoil,31
+onion,"downey mildew,purple blotch, green mould",2500,16.49,339.5,24.25,97,48.5,67.9,kharif,alluvialsoil,32
+french bean,"leaf spot, antracnose",5450,18.43,378.3,22.31,58.2,38.8,38.8,rabi,alluvialsoil,33
+garden pea,"brown spot, gray mold, root rot",6000,17.46,417.1,22.31,29.1,48.5,24.25,rabi,alluvialsoil,34
+maize,leaf blight,1750,22.195,627.25,32.81,259.585,108.08,259.585,kharif,blacksoil,1
+cotton,boll weevil,5150,22.195,965,34.74,236.425,40.53,64.655,kharif,blacksoil,2
+wheat,"leaf rust , spike blight , saw fly",1840,23.16,723.75,33.775,194.93,70.445,166.945,rabi,alluvialsoil,3
+paddy,"rice blast , shealth blast ",1750,24.125,651.375,53.075,17.37,2.895,17.37,kharif,alluvialsoil,4
+barley,"bacterial blight , powdery mildew",1440,33.775,530.75,77.2,57.9,6.755,6.755,rabi,alluvialsoil,5
+finger millet,magnaporthe grascea,1800,22.195,530.75,33.775,57.9,28.95,28.95,kharif,blacksoil,6
+ground nut,"early leaf spot,rust disease,stem rot",4890,25.09,554.875,54.04,28.95,0,144.75,kharif,redsoil,7
+green gram,"leaf blight,powdery mildew,root rot",5375,28.95,892.625,74.305,38.6,9.65,14.475,kharif,redsoil,8
+tea,"blister blight,chemiliabiback",2000,16.405,2509,19.3,130.275,38.6,90.71,kharif,lateritesoil,9
+chillies,"wilting,canker,mosaic virral",7500,19.3,530.75,21.23,72.375,72.375,53.075,kharif,alluvialsoil,10
+turmeric,"ryzome,leaf bloeth,dry rot",6000,24.125,1447.5,40.53,120.625,35.705,35.705,kharif,alluvialsoil,11
+sugar cane,"orangerust,leafcald,mosaicviral",275,27.02,1737,67.55,289.5,96.5,193,kharif,alluvialsoil,12
+jute,"leafblight,seedlingblight,mosaicvirus",3700,27.02,1737,69.48,19.3,19.3,19.3,kharif,redsoil,13
+sorghum,"bacterial leaf spot, charcoal rot",2800,27.02,506.625,72.375,77.2,38.6,0,kharif,alluvialsoil,14
+bajra,downey mildew,1750,24.125,482.5,48.25,106.15,38.6,19.3,rabi,blacksoil,15
+red gram,"wilt ,stem blight, dry root rot",5050,31.845,506.625,82.99,19.3,48.25,19.3,kharif,blacksoil,16
+black gram ,"yello mossaic virus, leaf crinkle ,powdery mildew",4400,28.95,699.625,81.06,24.125,48.25,28.95,rabi,alluvialsoil,17
+sesame,"bacterialblight,rootrot,phyllody",5600,26.055,772,71.41,48.25,24.125,24.125,kharif,lateritesoil,18
+sweet potato,"black rot,bacterial stem,root rot",4875,23.16,434.25,50.18,193,55.97,123.52,rabi,marshy,19
+mustard,"white rust, club root, bacterial blight",3700,25.09,434.25,56.935,77.2,19.3,19.3,rabi,alluvialsoil,20
+soyabean,"stem rot, stram blight",3050,27.02,48.25,72.375,24.125,48.25,28.95,rabi,alluvialsoil,21
+lin seed,"rust, wilt mildew, powdery mildew",4050,14.475,579,22.195,86.85,38.6,28.95,kharif,alluvialsoil,22
+niger,"powdery miltew,milt",4050,20.265,1109.75,33.775,19.3,38.6,0,kharif,blacksoil,23
+capsicum,"bactrial spot, charcoal rot, root knot",3500,28.95,965,75.27,72.375,72.375,53.075,kharif,redsoil,24
+cucumber,"powdery mildew, cucumber betelles, mosiac",2200,18.335,434.25,25.09,96.5,48.25,48.25,rabi,alluvialsoil,25
+ridge gourd,"belly rot, bacterial milt, downey mildew",2540,30.88,482.5,76.235,96.5,57.9,57.9,kharif,alluvialsoil,26
+bottle gourd,"furasium milt, powdery mildew, downey mildew",2500,24.125,289.5,62.725,96.5,48.25,48.25,rabi,alluvialsoil,27
+snake gourd,"antracnose, leaf spot",2600,25.09,579,65.62,57.9,48.25,38.6,kharif,alluvialsoil,28
+Water melon,"bacterial fruit blotch, antracnose",2000,24.125,530.75,61.76,57.9,38.6,38.6,kharif,alluvialsoil,29
+muskmelon,"powdery mildew, root knot, ",3200,27.02,434.25,70.445,96.5,72.375,48.25,kharif,alluvialsoil,30
+cauli flower,"black leg,camping off, leaf spot",3000,16.405,386,20.265,96.5,48.25,48.25,rabi,alluvialsoil,31
+onion,"downey mildew,purple blotch, green mould",2500,16.405,337.75,24.125,96.5,48.25,67.55,kharif,alluvialsoil,32
+french bean,"leaf spot, antracnose",5450,18.335,376.35,22.195,57.9,38.6,38.6,rabi,alluvialsoil,33
+garden pea,"brown spot, gray mold, root rot",6000,17.37,414.95,22.195,28.95,48.25,24.125,rabi,alluvialsoil,34
+maize,leaf blight,1750,22.08,624,32.64,258.24,107.52,258.24,kharif,blacksoil,1
+cotton,boll weevil,5150,22.08,960,34.56,235.2,40.32,64.32,kharif,blacksoil,2
+wheat,"leaf rust , spike blight , saw fly",1840,23.04,720,33.6,193.92,70.08,166.08,rabi,alluvialsoil,3
+paddy,"rice blast , shealth blast ",1750,24,648,52.8,17.28,2.88,17.28,kharif,alluvialsoil,4
+barley,"bacterial blight , powdery mildew",1440,33.6,528,76.8,57.6,6.72,6.72,rabi,alluvialsoil,5
+finger millet,magnaporthe grascea,1800,22.08,528,33.6,57.6,28.8,28.8,kharif,blacksoil,6
+ground nut,"early leaf spot,rust disease,stem rot",4890,24.96,552,53.76,28.8,0,144,kharif,redsoil,7
+green gram,"leaf blight,powdery mildew,root rot",5375,28.8,888,73.92,38.4,9.6,14.4,kharif,redsoil,8
+tea,"blister blight,chemiliabiback",2000,16.32,2496,19.2,129.6,38.4,90.24,kharif,lateritesoil,9
+chillies,"wilting,canker,mosaic virral",7500,19.2,528,21.12,72,72,52.8,kharif,alluvialsoil,10
+turmeric,"ryzome,leaf bloeth,dry rot",6000,24,1440,40.32,120,35.52,35.52,kharif,alluvialsoil,11
+sugar cane,"orangerust,leafcald,mosaicviral",275,26.88,1728,67.2,288,96,192,kharif,alluvialsoil,12
+jute,"leafblight,seedlingblight,mosaicvirus",3700,26.88,1728,69.12,19.2,19.2,19.2,kharif,redsoil,13
+sorghum,"bacterial leaf spot, charcoal rot",2800,26.88,504,72,76.8,38.4,0,kharif,alluvialsoil,14
+bajra,downey mildew,1750,24,480,48,105.6,38.4,19.2,rabi,blacksoil,15
+red gram,"wilt ,stem blight, dry root rot",5050,31.68,504,82.56,19.2,48,19.2,kharif,blacksoil,16
+black gram ,"yello mossaic virus, leaf crinkle ,powdery mildew",4400,28.8,696,80.64,24,48,28.8,rabi,alluvialsoil,17
+sesame,"bacterialblight,rootrot,phyllody",5600,25.92,768,71.04,48,24,24,kharif,lateritesoil,18
+sweet potato,"black rot,bacterial stem,root rot",4875,23.04,432,49.92,192,55.68,122.88,rabi,marshy,19
+mustard,"white rust, club root, bacterial blight",3700,24.96,432,56.64,76.8,19.2,19.2,rabi,alluvialsoil,20
+soyabean,"stem rot, stram blight",3050,26.88,48,72,24,48,28.8,rabi,alluvialsoil,21
+lin seed,"rust, wilt mildew, powdery mildew",4050,14.4,576,22.08,86.4,38.4,28.8,kharif,alluvialsoil,22
+niger,"powdery miltew,milt",4050,20.16,1104,33.6,19.2,38.4,0,kharif,blacksoil,23
+capsicum,"bactrial spot, charcoal rot, root knot",3500,28.8,960,74.88,72,72,52.8,kharif,redsoil,24
+cucumber,"powdery mildew, cucumber betelles, mosiac",2200,18.24,432,24.96,96,48,48,rabi,alluvialsoil,25
+ridge gourd,"belly rot, bacterial milt, downey mildew",2540,30.72,480,75.84,96,57.6,57.6,kharif,alluvialsoil,26
+bottle gourd,"furasium milt, powdery mildew, downey mildew",2500,24,288,62.4,96,48,48,rabi,alluvialsoil,27
+snake gourd,"antracnose, leaf spot",2600,24.96,576,65.28,57.6,48,38.4,kharif,alluvialsoil,28
+Water melon,"bacterial fruit blotch, antracnose",2000,24,528,61.44,57.6,38.4,38.4,kharif,alluvialsoil,29
+muskmelon,"powdery mildew, root knot, ",3200,26.88,432,70.08,96,72,48,kharif,alluvialsoil,30
+cauli flower,"black leg,camping off, leaf spot",3000,16.32,384,20.16,96,48,48,rabi,alluvialsoil,31
+onion,"downey mildew,purple blotch, green mould",2500,16.32,336,24,96,48,67.2,kharif,alluvialsoil,32
+french bean,"leaf spot, antracnose",5450,18.24,374.4,22.08,57.6,38.4,38.4,rabi,alluvialsoil,33
+garden pea,"brown spot, gray mold, root rot",6000,17.28,412.8,22.08,28.8,48,24,rabi,alluvialsoil,34
+maize,leaf blight,1750,21.965,620.75,32.47,256.895,106.96,256.895,kharif,blacksoil,1
+cotton,boll weevil,5150,21.965,955,34.38,233.975,40.11,63.985,kharif,blacksoil,2
+wheat,"leaf rust , spike blight , saw fly",1840,22.92,716.25,33.425,192.91,69.715,165.215,rabi,alluvialsoil,3
+paddy,"rice blast , shealth blast ",1750,23.875,644.625,52.525,17.19,2.865,17.19,kharif,alluvialsoil,4
+barley,"bacterial blight , powdery mildew",1440,33.425,525.25,76.4,57.3,6.685,6.685,rabi,alluvialsoil,5
+finger millet,magnaporthe grascea,1800,21.965,525.25,33.425,57.3,28.65,28.65,kharif,blacksoil,6
+ground nut,"early leaf spot,rust disease,stem rot",4890,24.83,549.125,53.48,28.65,0,143.25,kharif,redsoil,7
+green gram,"leaf blight,powdery mildew,root rot",5375,28.65,883.375,73.535,38.2,9.55,14.325,kharif,redsoil,8
+tea,"blister blight,chemiliabiback",2000,16.235,2483,19.1,128.925,38.2,89.77,kharif,lateritesoil,9
+chillies,"wilting,canker,mosaic virral",7500,19.1,525.25,21.01,71.625,71.625,52.525,kharif,alluvialsoil,10
+turmeric,"ryzome,leaf bloeth,dry rot",6000,23.875,1432.5,40.11,119.375,35.335,35.335,kharif,alluvialsoil,11
+sugar cane,"orangerust,leafcald,mosaicviral",275,26.74,1719,66.85,286.5,95.5,191,kharif,alluvialsoil,12
+jute,"leafblight,seedlingblight,mosaicvirus",3700,26.74,1719,68.76,19.1,19.1,19.1,kharif,redsoil,13
+sorghum,"bacterial leaf spot, charcoal rot",2800,26.74,501.375,71.625,76.4,38.2,0,kharif,alluvialsoil,14
+bajra,downey mildew,1750,23.875,477.5,47.75,105.05,38.2,19.1,rabi,blacksoil,15
+red gram,"wilt ,stem blight, dry root rot",5050,31.515,501.375,82.13,19.1,47.75,19.1,kharif,blacksoil,16
+black gram ,"yello mossaic virus, leaf crinkle ,powdery mildew",4400,28.65,692.375,80.22,23.875,47.75,28.65,rabi,alluvialsoil,17
+sesame,"bacterialblight,rootrot,phyllody",5600,25.785,764,70.67,47.75,23.875,23.875,kharif,lateritesoil,18
+sweet potato,"black rot,bacterial stem,root rot",4875,22.92,429.75,49.66,191,55.39,122.24,rabi,marshy,19
+mustard,"white rust, club root, bacterial blight",3700,24.83,429.75,56.345,76.4,19.1,19.1,rabi,alluvialsoil,20
+soyabean,"stem rot, stram blight",3050,26.74,47.75,71.625,23.875,47.75,28.65,rabi,alluvialsoil,21
+lin seed,"rust, wilt mildew, powdery mildew",4050,14.325,573,21.965,85.95,38.2,28.65,kharif,alluvialsoil,22
+niger,"powdery miltew,milt",4050,20.055,1098.25,33.425,19.1,38.2,0,kharif,blacksoil,23
+capsicum,"bactrial spot, charcoal rot, root knot",3500,28.65,955,74.49,71.625,71.625,52.525,kharif,redsoil,24
+cucumber,"powdery mildew, cucumber betelles, mosiac",2200,18.145,429.75,24.83,95.5,47.75,47.75,rabi,alluvialsoil,25
+ridge gourd,"belly rot, bacterial milt, downey mildew",2540,30.56,477.5,75.445,95.5,57.3,57.3,kharif,alluvialsoil,26
+bottle gourd,"furasium milt, powdery mildew, downey mildew",2500,23.875,286.5,62.075,95.5,47.75,47.75,rabi,alluvialsoil,27
+snake gourd,"antracnose, leaf spot",2600,24.83,573,64.94,57.3,47.75,38.2,kharif,alluvialsoil,28
+Water melon,"bacterial fruit blotch, antracnose",2000,23.875,525.25,61.12,57.3,38.2,38.2,kharif,alluvialsoil,29
+muskmelon,"powdery mildew, root knot, ",3200,26.74,429.75,69.715,95.5,71.625,47.75,kharif,alluvialsoil,30
+cauli flower,"black leg,camping off, leaf spot",3000,16.235,382,20.055,95.5,47.75,47.75,rabi,alluvialsoil,31
+onion,"downey mildew,purple blotch, green mould",2500,16.235,334.25,23.875,95.5,47.75,66.85,kharif,alluvialsoil,32
+french bean,"leaf spot, antracnose",5450,18.145,372.45,21.965,57.3,38.2,38.2,rabi,alluvialsoil,33
+garden pea,"brown spot, gray mold, root rot",6000,17.19,410.65,21.965,28.65,47.75,23.875,rabi,alluvialsoil,34
