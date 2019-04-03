@@ -1,0 +1,44 @@
+<head>
+  <!-- Plotly.js -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+<!-- Plotly chart will be drawn inside this DIV -->
+<div id="plot"></div>
+<script>
+Plotly.d3.csv("dht.csv", function(err, rows){
+  function unpack(rows, key) {
+    return rows.map(function(row) { return row[key]; });
+  }
+  var trace1 = {
+    type: "scatter",
+    mode: "lines",
+    name: 'Temperature',
+    x: unpack(rows, 'Date'),
+    y: unpack(rows, 'Temperature'),
+    line: {color: '#17BECF'}
+  }
+  var trace2 = {
+    type: "scatter",
+    mode: "lines",
+    name: 'Humidity',
+    x: unpack(rows, 'Date'),
+    y: unpack(rows, 'Humidity'),
+    line: {color: '#7F7F7F'},
+    yaxis: 'y2'
+  }
+  var data = [trace1,trace2];
+  var layout = {
+    title: 'Home Environment monitor',
+    yaxis: {title: 'Temperature'},
+    yaxis2: {
+      title: 'Humidity',
+      overlaying: 'y',
+      side: 'right'
+    }
+  };
+  Plotly.newPlot('plot', data, layout);
+})
+</script>
+</body>
+</html>

@@ -1,0 +1,48 @@
+import sys
+import urllib2
+from time import sleep
+import Adafruit_DHT as dht
+from datetime import datetime
+
+
+
+myAPI = '5PQ14ZBU1FM414EP' 
+
+baseURL = 'https://api.thingspeak.com/update?api_key=%s' % myAPI 
+
+record_file = '/home/pi/dht.csv'
+timestr = datetime.now().strftime('%Y-%m-%d-%H:%M:%S')
+
+
+def DHT11_data():
+	try:
+
+  		humi, temp = dht.read_retry(11, 4, retries=5, delay_seconds=1) 
+	  	return humi, temp
+  	except ValueError as e:
+    		print 'Encounter sensor problem'
+
+with open(record_file, 'a') as f:
+	while True:
+	#	try:
+			humi, temp = DHT11_data()
+
+			if isinstance(humi, float) and isinstance(temp, float):
+				# Formatting to two decimal places
+				humi = '%.2f' % humi 					   
+				temp = '%.2f' % temp
+#				with open(record_file, 'a') as f:
+       				f.write('{0},{1},{2}\n'.format(timestr, humi, temp,))
+       				print 'Temp: {} C  Humidity: {} %'.format(temp, humi)
+			
+
+				conn = urllib2.urlopen(baseURL + '&field1=0&field2=%s&field3=%s' % (temp, humi))
+				print 'Connection param : {} '.format(conn.read())
+
+				conn.close()
+			else:
+			print 'Error'
+			# DHT22 requires 2 seconds to give a reading, so make sure to add delay of above 2 seconds.
+			sleep(1)
+	#	except:
+	#		print 'Error1'
